@@ -38,3 +38,5 @@ def parse_day(html, day):
         if pid in seen:
             continue
         seen.add(pid)
+        if __name__ == "__main__":
+    main()
