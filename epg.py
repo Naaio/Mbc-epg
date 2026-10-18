@@ -38,5 +38,67 @@ def parse_day(html, day):
         if pid in seen:
             continue
         seen.add(pid)
-        if __name__ == "__main__":
+        t = a.find_previous(string=TIME_RE)
+        title = a.get_text(" ", strip=True)
+        if not t or not title:
+            continue
+        h, m = map(int, TIME_RE.match(t).groups())
+        start = dt.datetime.combine(day, dt.time(h % 24, m), tzinfo=MU)
+        items.append((start, title, pid))
+    items.sort(key=lambda x: x[0])
+    return items
+
+
+def fmt(d):
+    return d.strftime("%Y%m%d%H%M%S %z")
+
+
+def main():
+    today = dt.datetime.now(MU).date()
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<tv generator-info-name="mbc-mu-epg">']
+    for cid, name, _ in CHANNELS:
+        out.append(f'<channel id="{cid}"><display-name>{escape(name)}</display-name></channel>')
+
+    total = 0
+    for cid, name, slug in CHANNELS:
+        first_ids = None
+        for i in range(DAYS):
+            day = today + dt.timedelta(days=i)
+            try:
+                r = requests.get(URL.format(slug=slug), params={DATE_PARAM: day.isoformat()},
+                                 headers=UA, timeout=30)
+                r.raise_for_status()
+            except requests.RequestException as e:
+                print(f"WARN {name} {day}: {e}", file=sys.stderr)
+                continue
+            items = parse_day(r.text, day)
+            ids = {p for _, _, p in items}
+            if i == 0:
+                first_ids = ids
+            elif ids and ids == first_ids:
+                print(f"WARN {name} {day}: same programmes as today - "
+                      f"the '{DATE_PARAM}' parameter is probably wrong", file=sys.stderr)
+                break
+            print(f"{name} {day}: {len(items)} programmes")
+            end_of_day = dt.datetime.combine(day + dt.timedelta(days=1), dt.time(0, 0), tzinfo=MU)
+            for n, (start, title, _) in enumerate(items):
+                stop = items[n + 1][0] if n + 1 < len(items) else end_of_day
+                if stop <= start:
+                    continue
+                out.append(f'<programme start="{fmt(start)}" stop="{fmt(stop)}" channel="{cid}">'
+                           f'<title>{escape(title)}</title></programme>')
+                total += 1
+            time.sleep(1)
+
+    out.append("</tv>")
+    if total == 0:
+        print("ERROR: no programmes parsed; not writing guide.xml", file=sys.stderr)
+        sys.exit(1)
+    with open("guide.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+    print(f"Wrote guide.xml with {total} programmes")
+
+
+if __name__ == "__main__":
     main()
