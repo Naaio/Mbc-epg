@@ -7,115 +7,179 @@
 <channel id="MBC5.mu"><display-name>MBC 5</display-name></channel>
 <channel id="MBC11.mu"><display-name>MBC 11</display-name></channel>
 <channel id="MBC16.mu"><display-name>MBC 16</display-name></channel>
-<programme start="20261029000800 +0400" stop="20261029003600 +0400" channel="MBC1.mu"><title>ODRIG PROG : FEMININ PLURIEL L'ECLAT DE RIRE DE PRISCILLA : LAMBASSADRICE QUI FAIT BRILLER LES FEMMES DU MONDE</title></programme>
-<programme start="20261029003600 +0400" stop="20261029005000 +0400" channel="MBC1.mu"><title>RODRIG PROG : PLAT DU CHEF MAKARARA</title></programme>
-<programme start="20261029005000 +0400" stop="20261029010700 +0400" channel="MBC1.mu"><title>RODRIG PROG : SAVER LOKAL FONDAN KOKO EK SALAD</title></programme>
-<programme start="20261029010700 +0400" stop="20261029013200 +0400" channel="MBC1.mu"><title>RODRIG PROG : ROD'ART FREDERIKA</title></programme>
-<programme start="20261029013200 +0400" stop="20261029020000 +0400" channel="MBC1.mu"><title>NOU LATER NOU LAMER NOU RISES RIVIERE DU POSTE</title></programme>
-<programme start="20261029020000 +0400" stop="20261029023000 +0400" channel="MBC1.mu"><title>EMOTION EN AVANT PLAN  TEAT DAN VILAZ</title></programme>
-<programme start="20261029023000 +0400" stop="20261029025500 +0400" channel="MBC1.mu"><title>PAROLES AGRICOLES TECHNIQUES D’IRRIGATION AVEC LE F.A.R.E.I</title></programme>
-<programme start="20261029025500 +0400" stop="20261029031900 +0400" channel="MBC1.mu"><title>SAVER KILTIREL  CHOUX RAVES</title></programme>
-<programme start="20261029031900 +0400" stop="20261029034900 +0400" channel="MBC1.mu"><title>GLWAR DANTAN GAETAN HEROSEAU</title></programme>
-<programme start="20261029034900 +0400" stop="20261029045900 +0400" channel="MBC1.mu"><title>RYTHM WEDS HARMONY (PT ½) A PIANO CONCERT BY JHONNY JOSEPH AT CAUDANS ARTS CENTRE</title></programme>
-<programme start="20261029045900 +0400" stop="20261029054500 +0400" channel="MBC1.mu"><title>RODRIG PROG - EXTRAIT CENTENAIRE UNE PHOTO, UNE VIE, UNE HISTOIRE, UNE EXPERIENCE ET UN SIECLE</title></programme>
-<programme start="20261029054500 +0400" stop="20261029180100 +0400" channel="MBC1.mu"><title>SEKIRITE LOR LAROUT SPEED CAMERA</title></programme>
-<programme start="20261029180100 +0400" stop="20261029180300 +0400" channel="MBC1.mu"><title>PAROLES AGRICOLES Promo Prog</title></programme>
-<programme start="20261029180300 +0400" stop="20261029182600 +0400" channel="MBC1.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN -S01 EP 42</title></programme>
-<programme start="20261029182600 +0400" stop="20261029182700 +0400" channel="MBC1.mu"><title>RAANJHANAA</title></programme>
-<programme start="20261029182700 +0400" stop="20261029182800 +0400" channel="MBC1.mu"><title>EMOTION EN AVANT PLAN</title></programme>
-<programme start="20261029182800 +0400" stop="20261029182900 +0400" channel="MBC1.mu"><title>PAROLES AGRICOLES</title></programme>
-<programme start="20261029182900 +0400" stop="20261029183100 +0400" channel="MBC1.mu"><title>LE POINT</title></programme>
-<programme start="20261029183100 +0400" stop="20261029183200 +0400" channel="MBC1.mu"><title>BHOJPURI BEST SONG OF THE YEAR 2026</title></programme>
-<programme start="20261029183200 +0400" stop="20261029183300 +0400" channel="MBC1.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA -S01 EP 15 PT1</title></programme>
-<programme start="20261029183300 +0400" stop="20261029183400 +0400" channel="MBC1.mu"><title>SAYINGS RADHA KRISHNA -S01 EP 192 Others Serial (U)C</title></programme>
-<programme start="20261029183400 +0400" stop="20261029192300 +0400" channel="MBC1.mu"><title>AMRIT VANI TALK ON KARWA CHAWT/DEEPAVALI BY ACHARYA MOHAN PRASAD SAKLANI, MSDTF DOB 29/10/26S01 EP 768 Local Prod Serial (U)C</title></programme>
-<programme start="20261029192300 +0400" stop="20261029195000 +0400" channel="MBC1.mu"><title>NOU LATER NOU LAMER NOU RISES RIVIERE DU POSTE</title></programme>
-<programme start="20261029195000 +0400" stop="20261029200300 +0400" channel="MBC1.mu"><title>INFO EN LANGUE DES SIGNES</title></programme>
-<programme start="20261029200300 +0400" stop="20261029201800 +0400" channel="MBC1.mu"><title>ZOURNAL RODRIG</title></programme>
-<programme start="20261029201800 +0400" stop="20261029201900 +0400" channel="MBC1.mu"><title>PAROLES AGRICOLES</title></programme>
-<programme start="20261029201900 +0400" stop="20261029205100 +0400" channel="MBC1.mu"><title>TEAT DAN VILAZ</title></programme>
-<programme start="20261029205100 +0400" stop="20261029211600 +0400" channel="MBC1.mu"><title>PAROLES AGRICOLES TECHNIQUES D’IRRIGATION AVEC LE F.A.R.E.I – PARTIE 3</title></programme>
-<programme start="20261029211600 +0400" stop="20261029211800 +0400" channel="MBC1.mu"><title>BHOJPURI BEST SONG OF THE YEAR 2026</title></programme>
-<programme start="20261029211800 +0400" stop="20261029214300 +0400" channel="MBC1.mu"><title>SAVER KILTIREL  CHOUX RAVES</title></programme>
-<programme start="20261029214300 +0400" stop="20261029223200 +0400" channel="MBC1.mu"><title>MUSIC TOUR 2025 SATURDAY SPECIALS</title></programme>
-<programme start="20261029223200 +0400" stop="20261029224200 +0400" channel="MBC1.mu"><title>OPIOIDS: BUSINESS AND ADDICTION</title></programme>
-<programme start="20261029224200 +0400" stop="20261029225500 +0400" channel="MBC1.mu"><title>SEKIRITE LOR LAROUT SPEED CAMERA PART 2</title></programme>
-<programme start="20261029225500 +0400" stop="20261029225800 +0400" channel="MBC1.mu"><title>AAJ AUR KAL BOLLYWOOD HITS GOLDEN COLLECTIONS OF 90s/2000S01 EP 11 Local Prod Serial (U)C</title></programme>
-<programme start="20261029225800 +0400" stop="20261029232300 +0400" channel="MBC1.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
-<programme start="20261029232300 +0400" stop="20261029233600 +0400" channel="MBC1.mu"><title>SON LADAN MEM  CARO PERNE</title></programme>
-<programme start="20261029233600 +0400" stop="20261029234100 +0400" channel="MBC1.mu"><title>ECO INDIA</title></programme>
-<programme start="20261029234100 +0400" stop="20261030000000 +0400" channel="MBC1.mu"><title>LA SOSIETE THEME: LA SOPHROLOGIE - INVITEE: VANESSA GUISSEPI</title></programme>
-<programme start="20261029180300 +0400" stop="20261029183200 +0400" channel="MBC2.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
-<programme start="20261029183200 +0400" stop="20261029190300 +0400" channel="MBC2.mu"><title>-S01 EP 15 PT1 French Telenovela Serial (PG)C</title></programme>
-<programme start="20261029190300 +0400" stop="20261029192300 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL</title></programme>
-<programme start="20261029192300 +0400" stop="20261029195000 +0400" channel="MBC2.mu"><title>NOU LATER NOU LAMER NOU RISES RIVIERE DU POSTE</title></programme>
-<programme start="20261029195000 +0400" stop="20261029200300 +0400" channel="MBC2.mu"><title>INFO EN LANGUE DES SIGNES MID WEEK REVIEW</title></programme>
-<programme start="20261029200300 +0400" stop="20261029201900 +0400" channel="MBC2.mu"><title>ZOURNAL RODRIG OCTOBRE</title></programme>
-<programme start="20261029201900 +0400" stop="20261029205100 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN  TEAT DAN VILAZ</title></programme>
-<programme start="20261029205100 +0400" stop="20261029211800 +0400" channel="MBC2.mu"><title>PAROLES AGRICOLES TECHNIQUES D’IRRIGATION AVEC LE F.A.R.E.I</title></programme>
-<programme start="20261029211800 +0400" stop="20261029214300 +0400" channel="MBC2.mu"><title>SAVER KILTIREL  CHOUX RAVES</title></programme>
-<programme start="20261029214300 +0400" stop="20261029224200 +0400" channel="MBC2.mu"><title>MUSIC TOUR 2025 SATURDAY SPECIALS</title></programme>
-<programme start="20261029224200 +0400" stop="20261029225800 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT SPEED CAMERA</title></programme>
-<programme start="20261029225800 +0400" stop="20261029230300 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
-<programme start="20261029230300 +0400" stop="20261029234100 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL</title></programme>
-<programme start="20261029234100 +0400" stop="20261030000000 +0400" channel="MBC2.mu"><title>LA SOSIETE THEME: LA SOPHROLOGIE</title></programme>
-<programme start="20261029180300 +0400" stop="20261029183400 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
-<programme start="20261029183400 +0400" stop="20261029184600 +0400" channel="MBC3.mu"><title>AMRIT VANI TALK ON KARWA CHAWT/DEEPAVALI BY ACHARYA MOHAN PRASAD SAKLANI, MSDTF DOB 29/10/26S01 EP 768 Local Prod Serial (U)C</title></programme>
-<programme start="20261029184600 +0400" stop="20261029184700 +0400" channel="MBC3.mu"><title>IDENT MBC 3 MARCH 2026 V1 - Jingle</title></programme>
-<programme start="20261029184700 +0400" stop="20261029190800 +0400" channel="MBC3.mu"><title>BHAJAN SANDHYA WITH AASHIRVAAD BHAJAN MANDALI DOB 29/10/26S01 EP 44 Local Prod Serial (U)C</title></programme>
-<programme start="20261029190800 +0400" stop="20261029200400 +0400" channel="MBC3.mu"><title>SANSKRITI KI BAATEIN  TOPIC: ASTROLOGY GUEST: PRAKASH LUCHUN DOB 29/10/26 Local Prod (U)C</title></programme>
-<programme start="20261029200400 +0400" stop="20261029203000 +0400" channel="MBC3.mu"><title>HUNARBAAZ  GUEST: NAWSEEN TAHER DOB 29/10/26S01 EP 141 Local Prod Serial (U)C</title></programme>
-<programme start="20261029203000 +0400" stop="20261029203200 +0400" channel="MBC3.mu"><title>MBC PLAY SPORTSPACK - LANCH TV FINAL  MBC PLAY SPORTSPACK - LANCH TV FINAL  Promo Prog</title></programme>
-<programme start="20261029203200 +0400" stop="20261029203400 +0400" channel="MBC3.mu"><title>SAM 14 NOV 18H00 DIWALI NIGHT PROMO RM2 2026 SAM 14 NOV 18H00 DIWALI NIGHT PROMO RM2 2026 Promo Prog</title></programme>
-<programme start="20261029203400 +0400" stop="20261029205600 +0400" channel="MBC3.mu"><title>TENALI RAMA (SERIAL) S01 EP 157 Serial (U)C</title></programme>
-<programme start="20261029205600 +0400" stop="20261029211800 +0400" channel="MBC3.mu"><title>SHIV SHAKTI S01 EP 150 Serial (U)C</title></programme>
-<programme start="20261029211800 +0400" stop="20261029214200 +0400" channel="MBC3.mu"><title>SHIV SHAKTI S01 EP 150 Serial (U)C</title></programme>
-<programme start="20261029214200 +0400" stop="20261029220500 +0400" channel="MBC3.mu"><title>SHRIMAD RAMAYAN S01 EP 105 Serial (U)C</title></programme>
-<programme start="20261029220500 +0400" stop="20261029223000 +0400" channel="MBC3.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY S01 EP 701 Serial (U)C</title></programme>
-<programme start="20261029223000 +0400" stop="20261029225500 +0400" channel="MBC3.mu"><title>ECO INDIA  S2025 DDI MAG - 300725 MagazineC</title></programme>
-<programme start="20261029225500 +0400" stop="20261030000000 +0400" channel="MBC3.mu"><title>AAJ AUR KAL BOLLYWOOD HITS GOLDEN COLLECTIONS OF 90s/2000S01 EP 11 Local Prod Serial (U)C</title></programme>
-<programme start="20261029180000 +0400" stop="20261029183100 +0400" channel="MBC4.mu"><title>SAMACHAR - Live (U)C</title></programme>
-<programme start="20261029183100 +0400" stop="20261029190100 +0400" channel="MBC4.mu"><title>UDNE KI AASHA S01 EP 156 Serial (U)C</title></programme>
-<programme start="20261029190100 +0400" stop="20261029192900 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR S01 EP 90 Serial (PG)C</title></programme>
-<programme start="20261029192900 +0400" stop="20261029195200 +0400" channel="MBC4.mu"><title>PANDYA STORE S01 EP 105 Serial (U)C</title></programme>
-<programme start="20261029195200 +0400" stop="20261029200000 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 TITLE SONG (KAL HO NA HO)S01 EP 05 Filler Serial (U)C</title></programme>
-<programme start="20261029200000 +0400" stop="20261029202900 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI S01 EP 76 Serial (PG)C</title></programme>
-<programme start="20261029202900 +0400" stop="20261029205100 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI  S01 EP 112 Serial (U)C</title></programme>
-<programme start="20261029205100 +0400" stop="20261029205500 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 KUCH TOH HUA HAI (KAL HO NA HO)S01 EP 02 Filler Serial (U)C</title></programme>
-<programme start="20261029205500 +0400" stop="20261029210100 +0400" channel="MBC4.mu"><title>KYA SCENE HAI TOTAL DHAMALS01 EP 44 Filler Serial (U)C</title></programme>
-<programme start="20261029210100 +0400" stop="20261029213100 +0400" channel="MBC4.mu"><title>ANUPAMAA S01 EP 1298 Serial (U)C</title></programme>
-<programme start="20261029213100 +0400" stop="20261029215300 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI Hindi serial S01 EP 236 Serial (PG)C</title></programme>
-<programme start="20261029215300 +0400" stop="20261029220100 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 YEH LADKA HAI DEEWANA (KUCH KUCH HOTA HAI)S01 EP 10 Filler Serial (U)C</title></programme>
-<programme start="20261029220100 +0400" stop="20261029222300 +0400" channel="MBC4.mu"><title>DHRUV TARA S01 EP 380 Serial (U)C</title></programme>
-<programme start="20261029222300 +0400" stop="20261029223100 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 TITLE SONG (KUCH KUCH HOTA HAI)S01 EP 09 Filler Serial (U)C</title></programme>
-<programme start="20261029223100 +0400" stop="20261029225200 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY S01 EP 892 Serial (U)C</title></programme>
-<programme start="20261029225200 +0400" stop="20261029230100 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 MAIN TOH PHAS GAYA (HUM TOH MOHABBAT KAREGA)S01 EP 16 Filler Serial (U)C</title></programme>
-<programme start="20261029230100 +0400" stop="20261029232000 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA S01 EP 145 Serial (PG)C</title></programme>
-<programme start="20261029232000 +0400" stop="20261029232500 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 TERE PYAR NE - FEMALE VERSION (RAJAJI)S01 EP 12 Filler Serial (U)C</title></programme>
-<programme start="20261029232500 +0400" stop="20261029233100 +0400" channel="MBC4.mu"><title>HINDI FILLER - AUGUST 2026 SUNDAY KI RAAT THI (RAJAJI)S01 EP 11 Filler Serial (U)C</title></programme>
-<programme start="20261029233100 +0400" stop="20261030000000 +0400" channel="MBC4.mu"><title>MERA PATI SIRF MERA HAI HINDI FILM Film (U)C</title></programme>
-<programme start="20261029000300 +0400" stop="20261029001700 +0400" channel="MBC5.mu"><title>THE 77 PERCENT SPECIAL</title></programme>
-<programme start="20261029001700 +0400" stop="20261029003100 +0400" channel="MBC5.mu"><title>MAPPED OUT</title></programme>
-<programme start="20261029003100 +0400" stop="20261029180000 +0400" channel="MBC5.mu"><title>A WILD RIVER IN THE BRINK OF COLLAPSE</title></programme>
-<programme start="20261029180000 +0400" stop="20261029183000 +0400" channel="MBC5.mu"><title>ECO INDIA</title></programme>
-<programme start="20261029183000 +0400" stop="20261029185800 +0400" channel="MBC5.mu"><title>THE 77 PERCENT SPECIAL</title></programme>
-<programme start="20261029185800 +0400" stop="20261029190000 +0400" channel="MBC5.mu"><title>PAROLES AGRICOLES</title></programme>
-<programme start="20261029190000 +0400" stop="20261029191400 +0400" channel="MBC5.mu"><title>STUDENT SUPPORT PROGRAMME: GRADE 7 - INFORMATION COMMUNICATION AND TECHNOLOGY  U6 L3 - HOW TO CREATE A CHART IN MS POWER POINT</title></programme>
-<programme start="20261029191400 +0400" stop="20261029193000 +0400" channel="MBC5.mu"><title>STUDENT SUPPORT PROGRAMME: GRADE 7: ART AND DESIGN S2 L21: CREATING IN 3D MODELING-NATURAL AND SYNTHETIC CLAY</title></programme>
-<programme start="20261029193000 +0400" stop="20261029195900 +0400" channel="MBC5.mu"><title>TOMORROW TODAY</title></programme>
-<programme start="20261029195900 +0400" stop="20261029200300 +0400" channel="MBC5.mu"><title>PAROLES AGRICOLES</title></programme>
-<programme start="20261029200300 +0400" stop="20261029213900 +0400" channel="MBC5.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
-<programme start="20261029213900 +0400" stop="20261029214400 +0400" channel="MBC5.mu"><title>LITTLE GOURMET</title></programme>
-<programme start="20261029214400 +0400" stop="20261029232400 +0400" channel="MBC5.mu"><title>THROUGH KAZAKHSTAN BY TRAIN: A CLINIC ON RAILS</title></programme>
-<programme start="20261029232400 +0400" stop="20261030000000 +0400" channel="MBC5.mu"><title>UNSEEN TAIWAN</title></programme>
-<programme start="20261029182000 +0400" stop="20261029184600 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE STORIES  S 2026/2027S2026 EP 10 Magazine Serial (U)</title></programme>
-<programme start="20261029184600 +0400" stop="20261029194000 +0400" channel="MBC11.mu"><title>ACTION FOOTBALL CLUB 28.10.26S2026 EP 29 Local Prod Serial (U)C</title></programme>
-<programme start="20261029194000 +0400" stop="20261029200600 +0400" channel="MBC11.mu"><title>THE INSIDE LINE S2025 EP 676 Magazine Serial (U)C</title></programme>
-<programme start="20261029200600 +0400" stop="20261029210100 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE REVIEW 2026/2027S2026 EP 08 Magazine Serial (U)</title></programme>
-<programme start="20261029210100 +0400" stop="20261029213200 +0400" channel="MBC11.mu"><title>LA LIGA HIGHLIGHTS 2026/2027 : DAY 10 : 28.10.26S2026 EP 10 Magazine Serial (U)</title></programme>
-<programme start="20261029213200 +0400" stop="20261029214900 +0400" channel="MBC11.mu"><title>RODRIG SPOR MON 26.10.26S2026 EP 37 Local Prod Serial (U)C</title></programme>
-<programme start="20261029214900 +0400" stop="20261029221300 +0400" channel="MBC11.mu"><title>THE EVOLUTION OF SPORT / FOOTBALL THE WORLD IS WATCHINGS02 EP 05 Magazine Serial (U)</title></programme>
-<programme start="20261029221300 +0400" stop="20261029230200 +0400" channel="MBC11.mu"><title>ABU SPORTSMAXS2025 EP 471 Magazine Serial (U)C</title></programme>
-<programme start="20261029230200 +0400" stop="20261029234200 +0400" channel="MBC11.mu"><title>HEXAGONE MMA  S 2024/2025S2024 EP 63 Magazine Serial (PG)C</title></programme>
-<programme start="20261029234200 +0400" stop="20261030000000 +0400" channel="MBC11.mu"><title>DD SPORTS  - Live (U)C</title></programme>
+<programme start="20261030103000 +0400" stop="20261030111000 +0400" channel="MBC1.mu"><title>SAVEURS PLUS  RECETTES : APPLE LOAF, CHICKEN BALLS WITH VEGETABLES &amp; WHEAT</title></programme>
+<programme start="20261030111000 +0400" stop="20261030113000 +0400" channel="MBC1.mu"><title>LET'S MAKE IT TASTY -S01 EP 12 Documentary Serial (U)C</title></programme>
+<programme start="20261030113000 +0400" stop="20261030120000 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS -S01 EP 111 PT2 English Telenovela Serial (PG)C</title></programme>
+<programme start="20261030120000 +0400" stop="20261030122000 +0400" channel="MBC1.mu"><title>LE JOURNAL DE LA MI-JOURNEE - Live (U)C</title></programme>
+<programme start="20261030122000 +0400" stop="20261030123500 +0400" channel="MBC1.mu"><title>HD - INFO EN LANGUE DES SIGNES MID WEEK REVIEW : 29.10.26S2026 EP 44 Local Prod Serial (U)C</title></programme>
+<programme start="20261030123500 +0400" stop="20261030132500 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO -S01 EP 11 French Telenovela Serial (PG)C</title></programme>
+<programme start="20261030132500 +0400" stop="20261030135100 +0400" channel="MBC1.mu"><title>HD - LYING HEART / CORAZON QUE MIENTE -S01 EP 27 PT2 English Telenovela Serial (PG)C</title></programme>
+<programme start="20261030135100 +0400" stop="20261030141600 +0400" channel="MBC1.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN -S01 EP 42 PT1 French Telenovela Serial (PG)C</title></programme>
+<programme start="20261030141600 +0400" stop="20261030150000 +0400" channel="MBC1.mu"><title>ÉCLATS DE VIE / BROKEN LIVES -S01 EP 80 French Telenovela Serial (PG)C</title></programme>
+<programme start="20261030150000 +0400" stop="20261030150100 +0400" channel="MBC1.mu"><title>SAMACHAR - Live (U)C</title></programme>
+<programme start="20261030150100 +0400" stop="20261030151500 +0400" channel="MBC1.mu"><title>ARTIZAN MAMET PLUS TAILLEUR</title></programme>
+<programme start="20261030151500 +0400" stop="20261030152200 +0400" channel="MBC1.mu"><title>ENTREPRENEURIAT AU FEMININ PETITE RIVIERE</title></programme>
+<programme start="20261030152200 +0400" stop="20261030153000 +0400" channel="MBC1.mu"><title>JAPAN VIDEO TOPICS MARCH 2026 NAGASAKI, SPARKLING LIKE A GEMS2026 EP 08 Documentary Serial (U)C</title></programme>
+<programme start="20261030153000 +0400" stop="20261030153100 +0400" channel="MBC1.mu"><title>SAVEURS PLUS  RECETTES : APPLE LOAF, CHICKEN BALLS WITH VEGETABLES &amp; WHEAT</title></programme>
+<programme start="20261030153100 +0400" stop="20261030160000 +0400" channel="MBC1.mu"><title>LOVE OF MY LIFE/DEVUELVEME LA VIDA -S01 EP 59 English Telenovela Serial (PG)C</title></programme>
+<programme start="20261030160000 +0400" stop="20261030162100 +0400" channel="MBC1.mu"><title>PAROLES AGRICOLES TECHNIQUES D’IRRIGATION AVEC LE F.A.R.E.I</title></programme>
+<programme start="20261030162100 +0400" stop="20261030171500 +0400" channel="MBC1.mu"><title>LOVE OF MY LIFE/DEVUELVEME LA VIDA LAST EPISODES01 EP 60 English Telenovela Serial (PG)C</title></programme>
+<programme start="20261030171500 +0400" stop="20261030173000 +0400" channel="MBC1.mu"><title>LET'S MAKE IT TASTY -S01 EP 15 Documentary Serial (U)C</title></programme>
+<programme start="20261030173000 +0400" stop="20261030180000 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS -S01 EP 112 PT1 English Telenovela Serial (PG)C</title></programme>
+<programme start="20261030180000 +0400" stop="20261030183000 +0400" channel="MBC1.mu"><title>SAMACHAR - Live (U)C</title></programme>
+<programme start="20261030183000 +0400" stop="20261030183400 +0400" channel="MBC1.mu"><title>SAYINGS RADHA KRISHNA IDEAL S01 EP 264 Others Serial (U)C</title></programme>
+<programme start="20261030183400 +0400" stop="20261030190000 +0400" channel="MBC1.mu"><title>SHIV SHAKTI S01 EP 602 Serial (U)C</title></programme>
+<programme start="20261030190000 +0400" stop="20261030193000 +0400" channel="MBC1.mu"><title>19 MINUTES - LE POINT LES PESTICIDES - POUR UN MEILLEUR CONTROLE : 30.10.26S2026 EP 41 Local Prod Serial (U)C</title></programme>
+<programme start="20261030193000 +0400" stop="20261030200000 +0400" channel="MBC1.mu"><title>LE JOURNAL TELEVISE - Live (U)C</title></programme>
+<programme start="20261030200000 +0400" stop="20261030200400 +0400" channel="MBC1.mu"><title>LA METEO - Local Prod (U)</title></programme>
+<programme start="20261030200400 +0400" stop="20261030201500 +0400" channel="MBC1.mu"><title>LE JOURNAL DES SPORTS - Live (U)C</title></programme>
+<programme start="20261030201500 +0400" stop="20261030201800 +0400" channel="MBC1.mu"><title>ZERO STRESS AVEK MISELAINE LENTERMENT VISIT : 15.06.26S2026 EP 68 Local Prod Serial (U)</title></programme>
+<programme start="20261030201800 +0400" stop="20261030203000 +0400" channel="MBC1.mu"><title>NOU TRAVAY NOU LAVENIR 30.10.26S02 EP 44 Local Prod Serial (U)C</title></programme>
+<programme start="20261030203000 +0400" stop="20261030204700 +0400" channel="MBC1.mu"><title>HD - VIDEO KILLED THE RADIO STAR TINA TURNERS01 EP 04 Magazine Serial (PG)C</title></programme>
+<programme start="20261030204700 +0400" stop="20261030210000 +0400" channel="MBC1.mu"><title>RODRIGUES : FINALE COUPE DE L'AUTONOMIE 2026 : VOLLEYBALL MASCULIN 20 OCTOBER 2026 Local Prod (U)</title></programme>
+<programme start="20261030210000 +0400" stop="20261030223700 +0400" channel="MBC1.mu"><title>THE GRUDGE FRENCH FILM Film (15)</title></programme>
+<programme start="20261030223700 +0400" stop="20261030225000 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO -S01 EP 11 French Telenovela Serial (PG)C</title></programme>
+<programme start="20261030225000 +0400" stop="20261030230000 +0400" channel="MBC1.mu"><title>HINDI FILLER (BUDGET 25/26) LEKAR HUM DIWANA DIL (YAADON KI BARAAT)S01 EP 02 Filler Serial (U)C</title></programme>
+<programme start="20261030230000 +0400" stop="20261030233000 +0400" channel="MBC1.mu"><title>ALADDIN – NAAM TOH SUNA HOGA S01 EP 146 Serial (PG)C</title></programme>
+<programme start="20261030233000 +0400" stop="20261031000000 +0400" channel="MBC1.mu"><title>LE JOURNAL TELEVISE (REDIFFUSION) OCTOBRE 2026S2026 EP 30 Local Prod Serial (U)C</title></programme>
+<programme start="20261030103000 +0400" stop="20261030110000 +0400" channel="MBC2.mu"><title>SAVEURS PLUS  RECETTES : APPLE LOAF, CHICKEN BALLS WITH VEGETABLES &amp; WHEAT</title></programme>
+<programme start="20261030110000 +0400" stop="20261030113100 +0400" channel="MBC2.mu"><title>GLWAR DANTAN GAETAN HEROSEAU</title></programme>
+<programme start="20261030113100 +0400" stop="20261030120000 +0400" channel="MBC2.mu"><title>ARSIV MBC - FER ROULE : ANTIKITE - PAUL DUCRAY</title></programme>
+<programme start="20261030120000 +0400" stop="20261030124600 +0400" channel="MBC2.mu"><title>RODRIG PROG - EXTRAIT CENTENAIRE UNE PHOTO, UNE VIE, UNE HISTOIRE, UNE EXPERIENCE ET UN SIECLE</title></programme>
+<programme start="20261030124600 +0400" stop="20261030130000 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT SPEED CAMERA</title></programme>
+<programme start="20261030130000 +0400" stop="20261030130500 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
+<programme start="20261030130500 +0400" stop="20261030133200 +0400" channel="MBC2.mu"><title>LA SOSIETE THEME: LA SOPHROLOGIE - INVITEE: VANESSA GUISSEPI</title></programme>
+<programme start="20261030133200 +0400" stop="20261030140000 +0400" channel="MBC2.mu"><title>RODRIG PROG : FEMININ PLURIEL L'ECLAT DE RIRE DE PRISCILLA : LAMBASSADRICE QUI FAIT BRILLER LES FEMMES DU MONDE</title></programme>
+<programme start="20261030140000 +0400" stop="20261030143000 +0400" channel="MBC2.mu"><title>NOU LATER NOU LAMER NOU RISES RIVIERE DU POSTE</title></programme>
+<programme start="20261030143000 +0400" stop="20261030150100 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN  TEAT DAN VILAZ</title></programme>
+<programme start="20261030150100 +0400" stop="20261030151500 +0400" channel="MBC2.mu"><title>ARTIZAN MAMET PLUS TAILLEUR</title></programme>
+<programme start="20261030151500 +0400" stop="20261030153000 +0400" channel="MBC2.mu"><title>ENTREPRENEURIAT AU FEMININ PETITE RIVIERE</title></programme>
+<programme start="20261030153000 +0400" stop="20261030160000 +0400" channel="MBC2.mu"><title>SAVEURS PLUS  RECETTES : APPLE LOAF, CHICKEN BALLS WITH VEGETABLES &amp; WHEAT</title></programme>
+<programme start="20261030160000 +0400" stop="20261030163000 +0400" channel="MBC2.mu"><title>PAROLES AGRICOLES TECHNIQUES D’IRRIGATION AVEC LE F.A.R.E.I</title></programme>
+<programme start="20261030163000 +0400" stop="20261030165500 +0400" channel="MBC2.mu"><title>SAVER KILTIREL  CHOUX RAVES</title></programme>
+<programme start="20261030165500 +0400" stop="20261030170000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
+<programme start="20261030170000 +0400" stop="20261030173000 +0400" channel="MBC2.mu"><title>LA SOSIETE THEME: RESPONSABILITE PARENTALE - INVITEE: VERONIQUEWAN HOK CHEE, PSYCHOLOGUE CLINICIENNE</title></programme>
+<programme start="20261030173000 +0400" stop="20261030180000 +0400" channel="MBC2.mu"><title>SAVER KILTIREL FARATA MANIOC, CARI BESAN</title></programme>
+<programme start="20261030180000 +0400" stop="20261030183000 +0400" channel="MBC2.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
+<programme start="20261030183000 +0400" stop="20261030193000 +0400" channel="MBC2.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
+<programme start="20261030193000 +0400" stop="20261030194600 +0400" channel="MBC2.mu"><title>PARLONS SANTE SENIOR  OCTOBRE ROSE : DES TÉMOIGNAGES, DE L’ESPOIR ET DE LA SOLIDARITÉ</title></programme>
+<programme start="20261030194600 +0400" stop="20261030200000 +0400" channel="MBC2.mu"><title>EVASION TOURNEE DES ILES DU NORD - AVION SUR MER</title></programme>
+<programme start="20261030200000 +0400" stop="20261030201500 +0400" channel="MBC2.mu"><title>ZOURNAL RODRIG OCTOBRE 2026</title></programme>
+<programme start="20261030201500 +0400" stop="20261030203000 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT</title></programme>
+<programme start="20261030203000 +0400" stop="20261030214500 +0400" channel="MBC2.mu"><title>FUN FRIDAY WITH JERRY</title></programme>
+<programme start="20261030214500 +0400" stop="20261030221500 +0400" channel="MBC2.mu"><title>LA SOSIETE THEME: RESPONSABILITE PARENTALE - INVITEE: VERONIQUEWAN HOK CHEE, PSYCHOLOGUE CLINICIENNE</title></programme>
+<programme start="20261030221500 +0400" stop="20261030225500 +0400" channel="MBC2.mu"><title>SERGE RIVIERE SE LIVRE</title></programme>
+<programme start="20261030225500 +0400" stop="20261030230000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
+<programme start="20261030230000 +0400" stop="20261030232000 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL (REDIFFUSION)</title></programme>
+<programme start="20261030232000 +0400" stop="20261030233400 +0400" channel="MBC2.mu"><title>ENTREPRENEURIAT AU FEMININ PETITE RIVIERE</title></programme>
+<programme start="20261030233400 +0400" stop="20261030235700 +0400" channel="MBC2.mu"><title>MON JARDIN MA MAISON LES ORCHIDEES</title></programme>
+<programme start="20261030235700 +0400" stop="20261031000000 +0400" channel="MBC2.mu"><title>URGENCE ENERGETIQUE</title></programme>
+<programme start="20261030110400 +0400" stop="20261030113000 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
+<programme start="20261030113000 +0400" stop="20261030115900 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
+<programme start="20261030115900 +0400" stop="20261030141000 +0400" channel="MBC3.mu"><title>MAI TO BANDHI BHAV NI PREET</title></programme>
+<programme start="20261030141000 +0400" stop="20261030150000 +0400" channel="MBC3.mu"><title>KOSHISH SE KAMYABI TAK</title></programme>
+<programme start="20261030150000 +0400" stop="20261030152100 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
+<programme start="20261030152100 +0400" stop="20261030154600 +0400" channel="MBC3.mu"><title>ECO INDIA (TEA)</title></programme>
+<programme start="20261030154600 +0400" stop="20261030160800 +0400" channel="MBC3.mu"><title>DIL KO TUMSE PYAAR HUA</title></programme>
+<programme start="20261030160800 +0400" stop="20261030163000 +0400" channel="MBC3.mu"><title>DIL KO TUMSE PYAAR HUA</title></programme>
+<programme start="20261030163000 +0400" stop="20261030171300 +0400" channel="MBC3.mu"><title>AAJ KI CHARCHA</title></programme>
+<programme start="20261030171300 +0400" stop="20261030172000 +0400" channel="MBC3.mu"><title>CHEMICAL PESTICIDE</title></programme>
+<programme start="20261030172000 +0400" stop="20261030172600 +0400" channel="MBC3.mu"><title>HAPPY HARDY AND HEER</title></programme>
+<programme start="20261030172600 +0400" stop="20261030173000 +0400" channel="MBC3.mu"><title>2025 SAIYAARA song</title></programme>
+<programme start="20261030173000 +0400" stop="20261030175700 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
+<programme start="20261030175700 +0400" stop="20261030180000 +0400" channel="MBC3.mu"><title>AAGI HOON NA SOYI HOON HINDI FILLER</title></programme>
+<programme start="20261030180000 +0400" stop="20261030183000 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
+<programme start="20261030183000 +0400" stop="20261030203000 +0400" channel="MBC3.mu"><title>LIVE FROM IGCIC AUDITORIUM PHOENIX</title></programme>
+<programme start="20261030203000 +0400" stop="20261030205200 +0400" channel="MBC3.mu"><title>TENALI RAMA</title></programme>
+<programme start="20261030205200 +0400" stop="20261030211500 +0400" channel="MBC3.mu"><title>TENALI RAMA</title></programme>
+<programme start="20261030211500 +0400" stop="20261030213700 +0400" channel="MBC3.mu"><title>BEYHADH 2</title></programme>
+<programme start="20261030213700 +0400" stop="20261030222200 +0400" channel="MBC3.mu"><title>SHRIMAD RAMAYAN</title></programme>
+<programme start="20261030222200 +0400" stop="20261030224600 +0400" channel="MBC3.mu"><title>INDRADHANUSH</title></programme>
+<programme start="20261030224600 +0400" stop="20261030234900 +0400" channel="MBC3.mu"><title>AAJ AUR KAL BOLLYWOOD HITS NEW SPICY MUSIC</title></programme>
+<programme start="20261030234900 +0400" stop="20261031000000 +0400" channel="MBC3.mu"><title>KHEL KHILADI</title></programme>
+<programme start="20261030142500 +0400" stop="20261030144700 +0400" channel="MBC4.mu"><title>RADHA MOHAN S01 EP 771 Serial (U)C</title></programme>
+<programme start="20261030144700 +0400" stop="20261030150000 +0400" channel="MBC4.mu"><title>HINDI FILLER-JAB SE MILE NAINA FIRST LOVE LETTERS01 EP 91 Filler Serial (U)C</title></programme>
+<programme start="20261030150000 +0400" stop="20261030152100 +0400" channel="MBC4.mu"><title>TENALI RAMA (SERIAL) S01 EP 88 Serial (U)C</title></programme>
+<programme start="20261030152100 +0400" stop="20261030152900 +0400" channel="MBC4.mu"><title>HINDI FILLER-AAJA NACHLE TITLE SONGS01 EP 89 Filler Serial (U)C</title></programme>
+<programme start="20261030152900 +0400" stop="20261030174600 +0400" channel="MBC4.mu"><title>GUDGUDEE HINDI FILM Film (U)C</title></programme>
+<programme start="20261030174600 +0400" stop="20261030175300 +0400" channel="MBC4.mu"><title>HINDI FILLER - JAAWO TUM CHAAHE JAHAN NARASIMHAS01 EP 85 Filler Serial (U)C</title></programme>
+<programme start="20261030175300 +0400" stop="20261030180000 +0400" channel="MBC4.mu"><title>HINDI FILLER - SAAIYAAN TA RA RUM PUMS01 EP 82 Filler Serial (U)C</title></programme>
+<programme start="20261030180000 +0400" stop="20261030183000 +0400" channel="MBC4.mu"><title>SAMACHAR - Live (U)C</title></programme>
+<programme start="20261030183000 +0400" stop="20261030183200 +0400" channel="MBC4.mu"><title>SAYINGS RADHA KRISHNA WORDSS01 EP 68 Others Serial (U)C</title></programme>
+<programme start="20261030183200 +0400" stop="20261030190200 +0400" channel="MBC4.mu"><title>UDNE KI AASHA S01 EP 157 Serial (U)C</title></programme>
+<programme start="20261030190200 +0400" stop="20261030193200 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR S01 EP 91 Serial (PG)C</title></programme>
+<programme start="20261030193200 +0400" stop="20261030195500 +0400" channel="MBC4.mu"><title>PANDYA STORE S01 EP 106 Serial (U)C</title></programme>
+<programme start="20261030195500 +0400" stop="20261030200000 +0400" channel="MBC4.mu"><title>KYA SCENE HAI TOTAL DHAMAL S01 EP 53 Filler Serial (U)C</title></programme>
+<programme start="20261030200000 +0400" stop="20261030202800 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI S01 EP 77 Serial (PG)C</title></programme>
+<programme start="20261030202800 +0400" stop="20261030203000 +0400" channel="MBC4.mu"><title>KYA SCENE HAI FRYDAY S01 EP 55 Filler Serial (U)C</title></programme>
+<programme start="20261030203000 +0400" stop="20261030205200 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI  S01 EP 113 Serial (U)C</title></programme>
+<programme start="20261030205200 +0400" stop="20261030205900 +0400" channel="MBC4.mu"><title>KYA SCENE HAI KAMBAKKHT ISHQS01 EP 78 Filler Serial (U)C</title></programme>
+<programme start="20261030205900 +0400" stop="20261030212600 +0400" channel="MBC4.mu"><title>ANUPAMAA S01 EP 1299 Serial (U)C</title></programme>
+<programme start="20261030212600 +0400" stop="20261030212900 +0400" channel="MBC4.mu"><title>SAYINGS RADHA KRISHNA WORDSS01 EP 68 Others Serial (U)C</title></programme>
+<programme start="20261030212900 +0400" stop="20261030215100 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI Hindi serial S01 EP 237 Serial (PG)C</title></programme>
+<programme start="20261030215100 +0400" stop="20261030220000 +0400" channel="MBC4.mu"><title>KYA SCENE HAI NAMAK HALALS01 EP 86 Filler Serial (U)C</title></programme>
+<programme start="20261030220000 +0400" stop="20261030222100 +0400" channel="MBC4.mu"><title>DHRUV TARA S01 EP 381 Serial (U)C</title></programme>
+<programme start="20261030222100 +0400" stop="20261030222500 +0400" channel="MBC4.mu"><title>KYA SCENE HAI KHULLAM KHULLA PYAR KARENS01 EP 99 Filler Serial (U)C</title></programme>
+<programme start="20261030222500 +0400" stop="20261030222900 +0400" channel="MBC4.mu"><title>HINDI FILLER 2026 DIL JIGAR NAZAAR KYA HEIN (DIL KI KYA KASSOOR)S01 EP 02 Filler Serial (U)C</title></programme>
+<programme start="20261030222900 +0400" stop="20261030232200 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY S01 EP 893 Serial (U)C</title></programme>
+<programme start="20261030232200 +0400" stop="20261030232600 +0400" channel="MBC4.mu"><title>HINDI FILLER 2026 REHAM KARE (CASH)S01 EP 02 Filler Serial (U)C</title></programme>
+<programme start="20261030232600 +0400" stop="20261030233100 +0400" channel="MBC4.mu"><title>HINDI FILLER - 2026 BAS TERI DHOOM DHAM HAI (ACTION JACKSON)S01 EP 02 Filler Serial (U)C</title></programme>
+<programme start="20261030233100 +0400" stop="20261031000000 +0400" channel="MBC4.mu"><title>GUDGUDEE HINDI FILM Film (U)C</title></programme>
+<programme start="20261030113400 +0400" stop="20261030120000 +0400" channel="MBC5.mu"><title>ECO INDIA</title></programme>
+<programme start="20261030120000 +0400" stop="20261030121400 +0400" channel="MBC5.mu"><title>THE 77 PERCENT SPECIAL</title></programme>
+<programme start="20261030121400 +0400" stop="20261030122800 +0400" channel="MBC5.mu"><title>MAPPED OUT</title></programme>
+<programme start="20261030122800 +0400" stop="20261030125900 +0400" channel="MBC5.mu"><title>A WILD RIVER IN THE BRINK OF COLLAPSE</title></programme>
+<programme start="20261030125900 +0400" stop="20261030132500 +0400" channel="MBC5.mu"><title>TOMORROW TODAY</title></programme>
+<programme start="20261030132500 +0400" stop="20261030141000 +0400" channel="MBC5.mu"><title>THROUGH KAZAKHSTAN BY TRAIN: A CLINIC ON RAILS</title></programme>
+<programme start="20261030141000 +0400" stop="20261030150000 +0400" channel="MBC5.mu"><title>THE HAIDA PEOPLE IN CANADA</title></programme>
+<programme start="20261030150000 +0400" stop="20261030150500 +0400" channel="MBC5.mu"><title>BERRY AND DOLLY</title></programme>
+<programme start="20261030150500 +0400" stop="20261030151000 +0400" channel="MBC5.mu"><title>BERRY AND DOLLY</title></programme>
+<programme start="20261030151000 +0400" stop="20261030152000 +0400" channel="MBC5.mu"><title>SAM LE POMPIER</title></programme>
+<programme start="20261030152000 +0400" stop="20261030152900 +0400" channel="MBC5.mu"><title>SAM LE POMPIER</title></programme>
+<programme start="20261030152900 +0400" stop="20261030155300 +0400" channel="MBC5.mu"><title>MADAGASCAR : LA SAVANE EN DÉLIRE</title></programme>
+<programme start="20261030155300 +0400" stop="20261030161600 +0400" channel="MBC5.mu"><title>MADAGASCAR : LA SAVANE EN DÉLIRE</title></programme>
+<programme start="20261030161600 +0400" stop="20261030163900 +0400" channel="MBC5.mu"><title>PEANUTS : LE SNOOPY SHOW</title></programme>
+<programme start="20261030163900 +0400" stop="20261030165100 +0400" channel="MBC5.mu"><title>LA FAMILLE BLAIREAU RENARD</title></programme>
+<programme start="20261030165100 +0400" stop="20261030170300 +0400" channel="MBC5.mu"><title>LA FAMILLE BLAIREAU RENARD</title></programme>
+<programme start="20261030170300 +0400" stop="20261030173100 +0400" channel="MBC5.mu"><title>THE CHILDREN BEHIND ZALAGA</title></programme>
+<programme start="20261030173100 +0400" stop="20261030180000 +0400" channel="MBC5.mu"><title>ECO INDIA</title></programme>
+<programme start="20261030180000 +0400" stop="20261030183000 +0400" channel="MBC5.mu"><title>EYE ON SADC</title></programme>
+<programme start="20261030183000 +0400" stop="20261030184300 +0400" channel="MBC5.mu"><title>HER - WOMEN IN ASIA</title></programme>
+<programme start="20261030184300 +0400" stop="20261030190100 +0400" channel="MBC5.mu"><title>UNSEEN</title></programme>
+<programme start="20261030190100 +0400" stop="20261030191300 +0400" channel="MBC5.mu"><title>STUDENT SUPPORT PROGRAMME: GRADE 8 : FRENCH U2 LE TEXTE DESCRIPTIF</title></programme>
+<programme start="20261030191300 +0400" stop="20261030192200 +0400" channel="MBC5.mu"><title>STUDENT SUPPORT PROGRAMME: G8: BEE</title></programme>
+<programme start="20261030192200 +0400" stop="20261030193000 +0400" channel="MBC5.mu"><title>STUDENT SUPPORT PROGRAMME: G8: FOOD &amp; TEXTILE STUDIES</title></programme>
+<programme start="20261030193000 +0400" stop="20261030200300 +0400" channel="MBC5.mu"><title>EUROMAXX</title></programme>
+<programme start="20261030200300 +0400" stop="20261030205200 +0400" channel="MBC5.mu"><title>TERRE D'ESPERANCE</title></programme>
+<programme start="20261030205200 +0400" stop="20261030213900 +0400" channel="MBC5.mu"><title>ÉCLATS DE VIE</title></programme>
+<programme start="20261030213900 +0400" stop="20261030214500 +0400" channel="MBC5.mu"><title>LITTLE GOURMET</title></programme>
+<programme start="20261030214500 +0400" stop="20261030223100 +0400" channel="MBC5.mu"><title>THE DOLOMITES: SUMMER IN THE ITALIAN ALPS</title></programme>
+<programme start="20261030223100 +0400" stop="20261030231600 +0400" channel="MBC5.mu"><title>HOMELESSNESS IN LOS ANGELES</title></programme>
+<programme start="20261030231600 +0400" stop="20261030234700 +0400" channel="MBC5.mu"><title>THE CHILDREN BEHIND ZALAGA</title></programme>
+<programme start="20261030234700 +0400" stop="20261031000000 +0400" channel="MBC5.mu"><title>GOING BEYOND</title></programme>
+<programme start="20261030111400 +0400" stop="20261030121400 +0400" channel="MBC11.mu"><title>HEXAGONE MMA  S 2024/2025S2024 EP 64 Magazine Serial (PG)C</title></programme>
+<programme start="20261030121400 +0400" stop="20261030124000 +0400" channel="MBC11.mu"><title>BA Z ENES 28.10.266S2026 EP 35 Local Prod Serial (U)C</title></programme>
+<programme start="20261030124000 +0400" stop="20261030133200 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE REVIEW 2026/2027S2026 EP 08 Magazine Serial (U)</title></programme>
+<programme start="20261030133200 +0400" stop="20261030140600 +0400" channel="MBC11.mu"><title>LA LIGA HIGHLIGHTS 2026/2027 : DAY 10 : 28.10.26S2026 EP 10 Magazine Serial (U)</title></programme>
+<programme start="20261030140600 +0400" stop="20261030155700 +0400" channel="MBC11.mu"><title>ABU STL GP PENANG MATCH 9 PDRM VS SELS2024 EP 447 Magazine Serial (U)C</title></programme>
+<programme start="20261030155700 +0400" stop="20261030174200 +0400" channel="MBC11.mu"><title>HEXAGONE MMA  S 2024/2025S2024 EP 64 Magazine Serial (PG)C</title></programme>
+<programme start="20261030174200 +0400" stop="20261030175900 +0400" channel="MBC11.mu"><title>SPORTS LIFE  - S2026 EP 40 Magazine Serial (U)C</title></programme>
+<programme start="20261030175900 +0400" stop="20261030183000 +0400" channel="MBC11.mu"><title>LA LIGA HIGHLIGHTS 2026/2027 : DAY 10 : 28.10.26S2026 EP 10 Magazine Serial (U)</title></programme>
+<programme start="20261030183000 +0400" stop="20261030185500 +0400" channel="MBC11.mu"><title>FISU WORLD UNIVERSITY GAMES  -S2025 EP 22 Magazine Serial (U)C</title></programme>
+<programme start="20261030185500 +0400" stop="20261030194900 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE REVIEW 2026/2027S2026 EP 08 Magazine Serial (U)</title></programme>
+<programme start="20261030194900 +0400" stop="20261030201300 +0400" channel="MBC11.mu"><title>FOOTBALL REVIEW  S2025 EP 1397 Magazine Serial (U)</title></programme>
+<programme start="20261030201300 +0400" stop="20261030221500 +0400" channel="MBC11.mu"><title>TURF TIPS 30.10.26S2026 EP 20 Local Prod Serial (U)C</title></programme>
+<programme start="20261030221500 +0400" stop="20261030223900 +0400" channel="MBC11.mu"><title>FISU WORLD UNIVERSITY GAMES  -S2025 EP 22 Magazine Serial (U)C</title></programme>
+<programme start="20261030223900 +0400" stop="20261030232600 +0400" channel="MBC11.mu"><title>ABU SPORTSMAXS2025 EP 473 Magazine Serial (U)C</title></programme>
+<programme start="20261030232600 +0400" stop="20261031000000 +0400" channel="MBC11.mu"><title>HEXAGONE MMA  S 2024/2025S2024 EP 64 Magazine Serial (PG)C</title></programme>
+<programme start="20261030001400 +0400" stop="20261030185800 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS EVERGREEN HITS OF 70s/80s</title></programme>
+<programme start="20261030185800 +0400" stop="20261030210800 +0400" channel="MBC16.mu"><title>GAME</title></programme>
+<programme start="20261030210800 +0400" stop="20261030213000 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI</title></programme>
+<programme start="20261030213000 +0400" stop="20261030214500 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261030214500 +0400" stop="20261030215600 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261030215600 +0400" stop="20261030220900 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE SEASON 03</title></programme>
+<programme start="20261030220900 +0400" stop="20261030223000 +0400" channel="MBC16.mu"><title>TENALI RAMA</title></programme>
+<programme start="20261030223000 +0400" stop="20261030225200 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
+<programme start="20261030225200 +0400" stop="20261030233500 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS NEW SPICY MUSIC</title></programme>
+<programme start="20261030233500 +0400" stop="20261031000000 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS GOLDEN COLLECTIONS OF 90s/2000</title></programme>
 </tv>
