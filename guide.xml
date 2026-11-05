@@ -7,303 +7,299 @@
 <channel id="MBC5.mu"><display-name>MBC 5</display-name></channel>
 <channel id="MBC11.mu"><display-name>MBC 11</display-name></channel>
 <channel id="MBC16.mu"><display-name>MBC 16</display-name></channel>
-<programme start="20261105002700 +0400" stop="20261105003200 +0400" channel="MBC1.mu"><title>ASIATIQUE</title></programme>
-<programme start="20261105003200 +0400" stop="20261105005000 +0400" channel="MBC1.mu"><title>HD - LYING HEART / CORAZON QUE MIENTE</title></programme>
-<programme start="20261105005000 +0400" stop="20261105005500 +0400" channel="MBC1.mu"><title>HD-WILDFLOWER</title></programme>
-<programme start="20261105005500 +0400" stop="20261105014000 +0400" channel="MBC1.mu"><title>HD - NATURAL WONDERS</title></programme>
-<programme start="20261105014000 +0400" stop="20261105014500 +0400" channel="MBC1.mu"><title>LITTLE GOURMET</title></programme>
-<programme start="20261105014500 +0400" stop="20261105024100 +0400" channel="MBC1.mu"><title>HD - DOC / DOC - NELLE TUE MANI</title></programme>
-<programme start="20261105024100 +0400" stop="20261105024400 +0400" channel="MBC1.mu"><title>HD - ODD NEIGHBOURGS</title></programme>
-<programme start="20261105024400 +0400" stop="20261105033300 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO</title></programme>
-<programme start="20261105033300 +0400" stop="20261105035700 +0400" channel="MBC1.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
-<programme start="20261105035700 +0400" stop="20261105042000 +0400" channel="MBC1.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
-<programme start="20261105042000 +0400" stop="20261105044300 +0400" channel="MBC1.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
-<programme start="20261105044300 +0400" stop="20261105052700 +0400" channel="MBC1.mu"><title>LE ROMAN DE LA VIE / PÁGINAS DA VIDA</title></programme>
-<programme start="20261105052700 +0400" stop="20261105055000 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
-<programme start="20261105055000 +0400" stop="20261105061500 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
-<programme start="20261105061500 +0400" stop="20261105061600 +0400" channel="MBC1.mu"><title>L'HYMNE NATIONAL</title></programme>
-<programme start="20261105061600 +0400" stop="20261105063800 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
-<programme start="20261105063800 +0400" stop="20261105070300 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
-<programme start="20261105070300 +0400" stop="20261105075900 +0400" channel="MBC1.mu"><title>HD - DOC / DOC - NELLE TUE MANI</title></programme>
-<programme start="20261105075900 +0400" stop="20261105084300 +0400" channel="MBC1.mu"><title>LES ENQUETES DU JUGE DI / JUDGE DEE'S MYSTERY</title></programme>
-<programme start="20261105084300 +0400" stop="20261105090500 +0400" channel="MBC1.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
-<programme start="20261105090500 +0400" stop="20261105093100 +0400" channel="MBC1.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
-<programme start="20261105093100 +0400" stop="20261105104500 +0400" channel="MBC1.mu"><title>HD - COLUMBO</title></programme>
-<programme start="20261105104500 +0400" stop="20261105111500 +0400" channel="MBC1.mu"><title>HD - CHINA FARM</title></programme>
-<programme start="20261105111500 +0400" stop="20261105113100 +0400" channel="MBC1.mu"><title>LET'S MAKE IT TASTY</title></programme>
-<programme start="20261105113100 +0400" stop="20261105115800 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS</title></programme>
-<programme start="20261105115800 +0400" stop="20261105120500 +0400" channel="MBC1.mu"><title>LITTLE GOURMET</title></programme>
-<programme start="20261105120500 +0400" stop="20261105123000 +0400" channel="MBC1.mu"><title>LE JOURNAL DE LA MI-JOURNEE</title></programme>
-<programme start="20261105123000 +0400" stop="20261105132000 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO</title></programme>
-<programme start="20261105132000 +0400" stop="20261105135000 +0400" channel="MBC1.mu"><title>HD - LYING HEART / CORAZON QUE MIENTE</title></programme>
-<programme start="20261105135000 +0400" stop="20261105141500 +0400" channel="MBC1.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
-<programme start="20261105141500 +0400" stop="20261105150200 +0400" channel="MBC1.mu"><title>ÉCLATS DE VIE / BROKEN LIVES</title></programme>
-<programme start="20261105150200 +0400" stop="20261105152200 +0400" channel="MBC1.mu"><title>SAMACHAR</title></programme>
-<programme start="20261105152200 +0400" stop="20261105152700 +0400" channel="MBC1.mu"><title>HD - ODD NEIGHBOURGS</title></programme>
-<programme start="20261105152700 +0400" stop="20261105172400 +0400" channel="MBC1.mu"><title>HD - LES FIGURES DE L'OMBRE / HIDDEN FIGURES</title></programme>
-<programme start="20261105172400 +0400" stop="20261105175100 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS</title></programme>
-<programme start="20261105175100 +0400" stop="20261105180600 +0400" channel="MBC1.mu"><title>HD - INFO EN LANGUE DES SIGNES</title></programme>
-<programme start="20261105180600 +0400" stop="20261105183600 +0400" channel="MBC1.mu"><title>SAMACHAR</title></programme>
-<programme start="20261105183600 +0400" stop="20261105183800 +0400" channel="MBC1.mu"><title>SAYINGS RADHA KRISHNA</title></programme>
-<programme start="20261105183800 +0400" stop="20261105190600 +0400" channel="MBC1.mu"><title>SHIV SHAKTI</title></programme>
-<programme start="20261105190600 +0400" stop="20261105193800 +0400" channel="MBC1.mu"><title>HD - KYUNKI SAAS BHI KABHI BAHU THI</title></programme>
-<programme start="20261105193800 +0400" stop="20261105200800 +0400" channel="MBC1.mu"><title>LE JOURNAL TELEVISE</title></programme>
-<programme start="20261105200800 +0400" stop="20261105201200 +0400" channel="MBC1.mu"><title>LA METEO</title></programme>
-<programme start="20261105201200 +0400" stop="20261105202200 +0400" channel="MBC1.mu"><title>LE JOURNAL DES SPORTS</title></programme>
-<programme start="20261105202200 +0400" stop="20261105202800 +0400" channel="MBC1.mu"><title>ZERO STRESS AVEK MISELAINE</title></programme>
-<programme start="20261105202800 +0400" stop="20261105223000 +0400" channel="MBC1.mu"><title>STUMPED</title></programme>
-<programme start="20261105223000 +0400" stop="20261105231900 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO</title></programme>
-<programme start="20261105231900 +0400" stop="20261105234500 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS</title></programme>
-<programme start="20261105234500 +0400" stop="20261106000000 +0400" channel="MBC1.mu"><title>LE JOURNAL TELEVISE (REDIFFUSION)</title></programme>
-<programme start="20261105010700 +0400" stop="20261105012000 +0400" channel="MBC2.mu"><title>ARTIZAN</title></programme>
-<programme start="20261105012000 +0400" stop="20261105014400 +0400" channel="MBC2.mu"><title>SAVEURS PLUS</title></programme>
-<programme start="20261105014400 +0400" stop="20261105021000 +0400" channel="MBC2.mu"><title>EN TOUTE INTIMITE</title></programme>
-<programme start="20261105021000 +0400" stop="20261105023600 +0400" channel="MBC2.mu"><title>RODRIG SPOR</title></programme>
-<programme start="20261105023600 +0400" stop="20261105030200 +0400" channel="MBC2.mu"><title>DIVALI - SPECIAL HEALTHY RECIPES</title></programme>
-<programme start="20261105030200 +0400" stop="20261105032800 +0400" channel="MBC2.mu"><title>DROGUE : UNE URGENCE NATIONALE</title></programme>
-<programme start="20261105032800 +0400" stop="20261105034100 +0400" channel="MBC2.mu"><title>PARLONS SANTE SENIOR</title></programme>
-<programme start="20261105034100 +0400" stop="20261105040700 +0400" channel="MBC2.mu"><title>AGIR ENSEMBLE</title></programme>
-<programme start="20261105040700 +0400" stop="20261105045900 +0400" channel="MBC2.mu"><title>LES KLIPS</title></programme>
-<programme start="20261105045900 +0400" stop="20261105052800 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN</title></programme>
-<programme start="20261105052800 +0400" stop="20261105060000 +0400" channel="MBC2.mu"><title>NU RASINN</title></programme>
-<programme start="20261105060000 +0400" stop="20261105061100 +0400" channel="MBC2.mu"><title>LA MATINALE - RADIO MAURICE</title></programme>
-<programme start="20261105061100 +0400" stop="20261105091000 +0400" channel="MBC2.mu"><title>ARTIZAN</title></programme>
-<programme start="20261105091000 +0400" stop="20261105102400 +0400" channel="MBC2.mu"><title>FUN FRIDAY WITH JERRY</title></programme>
-<programme start="20261105102400 +0400" stop="20261105104300 +0400" channel="MBC2.mu"><title>SAVEURS PLUS</title></programme>
-<programme start="20261105104300 +0400" stop="20261105113500 +0400" channel="MBC2.mu"><title>LES KLIPS</title></programme>
-<programme start="20261105113500 +0400" stop="20261105120000 +0400" channel="MBC2.mu"><title>GRAND TITRE</title></programme>
-<programme start="20261105120000 +0400" stop="20261105120600 +0400" channel="MBC2.mu"><title>PAUSE CUISINE - SPECIAL DIVALI</title></programme>
-<programme start="20261105120600 +0400" stop="20261105123500 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN</title></programme>
-<programme start="20261105123500 +0400" stop="20261105130500 +0400" channel="MBC2.mu"><title>EN TOUTE INTIMITE</title></programme>
-<programme start="20261105130500 +0400" stop="20261105131000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
-<programme start="20261105131000 +0400" stop="20261105133600 +0400" channel="MBC2.mu"><title>RODRIG SPOR</title></programme>
-<programme start="20261105133600 +0400" stop="20261105140500 +0400" channel="MBC2.mu"><title>DIVALI - SPECIAL HEALTHY RECIPES</title></programme>
-<programme start="20261105140500 +0400" stop="20261105143500 +0400" channel="MBC2.mu"><title>DROGUE : UNE URGENCE NATIONALE</title></programme>
-<programme start="20261105143500 +0400" stop="20261105145000 +0400" channel="MBC2.mu"><title>PARLONS SANTE SENIOR</title></programme>
-<programme start="20261105145000 +0400" stop="20261105152000 +0400" channel="MBC2.mu"><title>AGIR ENSEMBLE</title></programme>
-<programme start="20261105152000 +0400" stop="20261105154000 +0400" channel="MBC2.mu"><title>SAVEURS PLUS</title></programme>
-<programme start="20261105154000 +0400" stop="20261105165500 +0400" channel="MBC2.mu"><title>FUN FRIDAY WITH JERRY</title></programme>
-<programme start="20261105165500 +0400" stop="20261105170000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
-<programme start="20261105170000 +0400" stop="20261105175200 +0400" channel="MBC2.mu"><title>UPCLOSE AND PERSONAL</title></programme>
-<programme start="20261105175200 +0400" stop="20261105180000 +0400" channel="MBC2.mu"><title>PAUSE CUISINE - SPECIAL DIVALI</title></programme>
-<programme start="20261105180000 +0400" stop="20261105183000 +0400" channel="MBC2.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
-<programme start="20261105183000 +0400" stop="20261105190000 +0400" channel="MBC2.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
-<programme start="20261105190000 +0400" stop="20261105192000 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL</title></programme>
-<programme start="20261105192000 +0400" stop="20261105194600 +0400" channel="MBC2.mu"><title>NOU LATER NOU LAMER NOU RISES</title></programme>
-<programme start="20261105194600 +0400" stop="20261105200000 +0400" channel="MBC2.mu"><title>HD - INFO EN LANGUE DES SIGNES</title></programme>
-<programme start="20261105200000 +0400" stop="20261105201500 +0400" channel="MBC2.mu"><title>ZOURNAL RODRIG</title></programme>
-<programme start="20261105201500 +0400" stop="20261105204500 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN</title></programme>
-<programme start="20261105204500 +0400" stop="20261105211500 +0400" channel="MBC2.mu"><title>PAROLES AGRICOLES</title></programme>
-<programme start="20261105211500 +0400" stop="20261105214500 +0400" channel="MBC2.mu"><title>ENCOUNTER</title></programme>
-<programme start="20261105214500 +0400" stop="20261105223600 +0400" channel="MBC2.mu"><title>MUSIC TOUR 2025</title></programme>
-<programme start="20261105223600 +0400" stop="20261105225500 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT</title></programme>
-<programme start="20261105225500 +0400" stop="20261105230000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
-<programme start="20261105230000 +0400" stop="20261105232000 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL (REDIFFUSION)</title></programme>
-<programme start="20261105232000 +0400" stop="20261105233400 +0400" channel="MBC2.mu"><title>SON LADAN MEM</title></programme>
-<programme start="20261105233400 +0400" stop="20261106000000 +0400" channel="MBC2.mu"><title>LA SOSIETE</title></programme>
-<programme start="20261105002300 +0400" stop="20261105005000 +0400" channel="MBC3.mu"><title>YATRA – SEASON 09</title></programme>
-<programme start="20261105005000 +0400" stop="20261105011800 +0400" channel="MBC3.mu"><title>DEEPOTSAV 2026</title></programme>
-<programme start="20261105011800 +0400" stop="20261105014500 +0400" channel="MBC3.mu"><title>DEEPAVALI &amp; RISHI NIRVAN DIWAS</title></programme>
-<programme start="20261105014500 +0400" stop="20261105020400 +0400" channel="MBC3.mu"><title>VIRASAT</title></programme>
-<programme start="20261105020400 +0400" stop="20261105023000 +0400" channel="MBC3.mu"><title>KAAM DHAAM  REDIFF</title></programme>
-<programme start="20261105023000 +0400" stop="20261105030400 +0400" channel="MBC3.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105030400 +0400" stop="20261105033200 +0400" channel="MBC3.mu"><title>YATRA – SEASON 09</title></programme>
-<programme start="20261105033200 +0400" stop="20261105035800 +0400" channel="MBC3.mu"><title>DEEPOTSAV 2026</title></programme>
-<programme start="20261105035800 +0400" stop="20261105042400 +0400" channel="MBC3.mu"><title>DEEPAVALI &amp; RISHI NIRVAN DIWAS</title></programme>
-<programme start="20261105042400 +0400" stop="20261105044300 +0400" channel="MBC3.mu"><title>VIRASAT</title></programme>
-<programme start="20261105044300 +0400" stop="20261105050000 +0400" channel="MBC3.mu"><title>KAAM DHAAM  REDIFF</title></programme>
-<programme start="20261105050000 +0400" stop="20261105070000 +0400" channel="MBC3.mu"><title>AASTHA TV</title></programme>
-<programme start="20261105070000 +0400" stop="20261105080100 +0400" channel="MBC3.mu"><title>TARANE PURANE</title></programme>
-<programme start="20261105080100 +0400" stop="20261105082700 +0400" channel="MBC3.mu"><title>YATRA – SEASON 09</title></programme>
-<programme start="20261105082700 +0400" stop="20261105090100 +0400" channel="MBC3.mu"><title>DEEPOTSAV 2026</title></programme>
-<programme start="20261105090100 +0400" stop="20261105100200 +0400" channel="MBC3.mu"><title>LIVE FROM STUDIO D</title></programme>
-<programme start="20261105100200 +0400" stop="20261105102200 +0400" channel="MBC3.mu"><title>RADHA MOHAN</title></programme>
-<programme start="20261105102200 +0400" stop="20261105104300 +0400" channel="MBC3.mu"><title>RADHA MOHAN</title></programme>
-<programme start="20261105104300 +0400" stop="20261105110400 +0400" channel="MBC3.mu"><title>RADHA MOHAN</title></programme>
-<programme start="20261105110400 +0400" stop="20261105113200 +0400" channel="MBC3.mu"><title>RADHA MOHAN</title></programme>
-<programme start="20261105113200 +0400" stop="20261105120200 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
-<programme start="20261105120200 +0400" stop="20261105150200 +0400" channel="MBC3.mu"><title>HIRA AUR PATTHAR</title></programme>
-<programme start="20261105150200 +0400" stop="20261105152300 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
-<programme start="20261105152300 +0400" stop="20261105155000 +0400" channel="MBC3.mu"><title>SAYINGS RADHA KRISHNA</title></programme>
-<programme start="20261105155000 +0400" stop="20261105161200 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
-<programme start="20261105161200 +0400" stop="20261105163300 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
-<programme start="20261105163300 +0400" stop="20261105171300 +0400" channel="MBC3.mu"><title>AAJ KI CHARCHA</title></programme>
-<programme start="20261105171300 +0400" stop="20261105173400 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
-<programme start="20261105173400 +0400" stop="20261105180400 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
-<programme start="20261105180400 +0400" stop="20261105183400 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
-<programme start="20261105183400 +0400" stop="20261105183600 +0400" channel="MBC3.mu"><title>SAYINGS RADHA KRISHNA</title></programme>
-<programme start="20261105183600 +0400" stop="20261105184700 +0400" channel="MBC3.mu"><title>AMRIT VANI</title></programme>
-<programme start="20261105184700 +0400" stop="20261105190800 +0400" channel="MBC3.mu"><title>BHAJAN SANDHYA</title></programme>
-<programme start="20261105190800 +0400" stop="20261105193500 +0400" channel="MBC3.mu"><title>4 DAYS OF DIVALI CELEBRATIONS</title></programme>
-<programme start="20261105193500 +0400" stop="20261105200100 +0400" channel="MBC3.mu"><title>MBC PROD THURSDAY 05/11/26</title></programme>
-<programme start="20261105200100 +0400" stop="20261105203500 +0400" channel="MBC3.mu"><title>HUNARBAAZ</title></programme>
-<programme start="20261105203500 +0400" stop="20261105205700 +0400" channel="MBC3.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
-<programme start="20261105205700 +0400" stop="20261105211900 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
-<programme start="20261105211900 +0400" stop="20261105214100 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
-<programme start="20261105214100 +0400" stop="20261105220400 +0400" channel="MBC3.mu"><title>SHRIMAD RAMAYAN</title></programme>
-<programme start="20261105220400 +0400" stop="20261105222500 +0400" channel="MBC3.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105222500 +0400" stop="20261105234700 +0400" channel="MBC3.mu"><title>TARANE PURANE</title></programme>
-<programme start="20261105234700 +0400" stop="20261105235900 +0400" channel="MBC3.mu"><title>AMRIT VANI</title></programme>
-<programme start="20261105235900 +0400" stop="20261106000000 +0400" channel="MBC3.mu"><title>BHAJAN SANDHYA</title></programme>
-<programme start="20261105021400 +0400" stop="20261105023600 +0400" channel="MBC4.mu"><title>UDNE KI AASHA</title></programme>
-<programme start="20261105023600 +0400" stop="20261105030300 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR</title></programme>
-<programme start="20261105030300 +0400" stop="20261105033300 +0400" channel="MBC4.mu"><title>PANDYA STORE</title></programme>
-<programme start="20261105033300 +0400" stop="20261105040400 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI</title></programme>
-<programme start="20261105040400 +0400" stop="20261105043400 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI</title></programme>
-<programme start="20261105043400 +0400" stop="20261105050400 +0400" channel="MBC4.mu"><title>ANUPAMAA</title></programme>
-<programme start="20261105050400 +0400" stop="20261105053400 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI</title></programme>
-<programme start="20261105053400 +0400" stop="20261105060400 +0400" channel="MBC4.mu"><title>DHRUV TARA</title></programme>
-<programme start="20261105060400 +0400" stop="20261105063500 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105063500 +0400" stop="20261105070500 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA</title></programme>
-<programme start="20261105070500 +0400" stop="20261105094300 +0400" channel="MBC4.mu"><title>JEANS</title></programme>
-<programme start="20261105094300 +0400" stop="20261105100500 +0400" channel="MBC4.mu"><title>UDNE KI AASHA</title></programme>
-<programme start="20261105100500 +0400" stop="20261105103200 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR</title></programme>
-<programme start="20261105103200 +0400" stop="20261105110300 +0400" channel="MBC4.mu"><title>PANDYA STORE</title></programme>
-<programme start="20261105110300 +0400" stop="20261105113300 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI</title></programme>
-<programme start="20261105113300 +0400" stop="20261105120400 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI</title></programme>
-<programme start="20261105120400 +0400" stop="20261105123300 +0400" channel="MBC4.mu"><title>ANUPAMAA</title></programme>
-<programme start="20261105123300 +0400" stop="20261105130300 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI</title></programme>
-<programme start="20261105130300 +0400" stop="20261105133400 +0400" channel="MBC4.mu"><title>DHRUV TARA</title></programme>
-<programme start="20261105133400 +0400" stop="20261105140500 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105140500 +0400" stop="20261105142500 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA</title></programme>
-<programme start="20261105142500 +0400" stop="20261105150000 +0400" channel="MBC4.mu"><title>RADHA MOHAN</title></programme>
-<programme start="20261105150000 +0400" stop="20261105153000 +0400" channel="MBC4.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
-<programme start="20261105153000 +0400" stop="20261105180000 +0400" channel="MBC4.mu"><title>8 X 10 TASVEER</title></programme>
-<programme start="20261105180000 +0400" stop="20261105183000 +0400" channel="MBC4.mu"><title>SAMACHAR</title></programme>
-<programme start="20261105183000 +0400" stop="20261105190100 +0400" channel="MBC4.mu"><title>UDNE KI AASHA</title></programme>
-<programme start="20261105190100 +0400" stop="20261105192900 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR</title></programme>
-<programme start="20261105192900 +0400" stop="20261105195900 +0400" channel="MBC4.mu"><title>PANDYA STORE</title></programme>
-<programme start="20261105195900 +0400" stop="20261105202900 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI</title></programme>
-<programme start="20261105202900 +0400" stop="20261105205900 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI</title></programme>
-<programme start="20261105205900 +0400" stop="20261105212900 +0400" channel="MBC4.mu"><title>ANUPAMAA</title></programme>
-<programme start="20261105212900 +0400" stop="20261105215900 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI</title></programme>
-<programme start="20261105215900 +0400" stop="20261105223000 +0400" channel="MBC4.mu"><title>DHRUV TARA</title></programme>
-<programme start="20261105223000 +0400" stop="20261105230000 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105230000 +0400" stop="20261105233000 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA</title></programme>
-<programme start="20261105233000 +0400" stop="20261106000000 +0400" channel="MBC4.mu"><title>8 X 10 TASVEER</title></programme>
-<programme start="20261105000900 +0400" stop="20261105002200 +0400" channel="MBC5.mu"><title>LET'S MAKE IT TASTY</title></programme>
-<programme start="20261105002200 +0400" stop="20261105004800 +0400" channel="MBC5.mu"><title>ARTS UNVEILED</title></programme>
-<programme start="20261105004800 +0400" stop="20261105013000 +0400" channel="MBC5.mu"><title>EUROPE REVEALED</title></programme>
-<programme start="20261105013000 +0400" stop="20261105021300 +0400" channel="MBC5.mu"><title>BETWEEN THE CZAR AND HITLER: THE RUSSIAN REVOLUTION AND THE LEGACY OF THE WHITE ARMY</title></programme>
-<programme start="20261105021300 +0400" stop="20261105025500 +0400" channel="MBC5.mu"><title>MY BODY MY MUSCLES: MORE THAN POWER AND PUMPING IRON</title></programme>
-<programme start="20261105025500 +0400" stop="20261105033800 +0400" channel="MBC5.mu"><title>CLICK BET- BOOKMAKERS HIT THE JACKPOT</title></programme>
-<programme start="20261105033800 +0400" stop="20261105042600 +0400" channel="MBC5.mu"><title>LA CHINE DU FUTUR</title></programme>
-<programme start="20261105042600 +0400" stop="20261105045400 +0400" channel="MBC5.mu"><title>CLOSE UP (DW)</title></programme>
-<programme start="20261105045400 +0400" stop="20261105052000 +0400" channel="MBC5.mu"><title>FOCUS ON EUROPE</title></programme>
-<programme start="20261105052000 +0400" stop="20261105054600 +0400" channel="MBC5.mu"><title>LITTLE BRITAIN IN THE DORDOGNE: BAGUETTE NOT BREXIT</title></programme>
-<programme start="20261105054600 +0400" stop="20261105060000 +0400" channel="MBC5.mu"><title>REV SPECIAL</title></programme>
-<programme start="20261105060000 +0400" stop="20261105062600 +0400" channel="MBC5.mu"><title>AFRIMAXX</title></programme>
-<programme start="20261105062600 +0400" stop="20261105063900 +0400" channel="MBC5.mu"><title>PLANET A</title></programme>
-<programme start="20261105063900 +0400" stop="20261105065200 +0400" channel="MBC5.mu"><title>LET'S MAKE IT TASTY</title></programme>
-<programme start="20261105065200 +0400" stop="20261105070000 +0400" channel="MBC5.mu"><title>JAPAN VIDEO TOPICS MARCH 2026</title></programme>
-<programme start="20261105070000 +0400" stop="20261105071100 +0400" channel="MBC5.mu"><title>BESTIOLES MOTEL / BEST BUGS FOREVER</title></programme>
-<programme start="20261105071100 +0400" stop="20261105072200 +0400" channel="MBC5.mu"><title>BESTIOLES MOTEL / BEST BUGS FOREVER</title></programme>
-<programme start="20261105072200 +0400" stop="20261105074500 +0400" channel="MBC5.mu"><title>MADAGASCAR : LA SAVANE EN DÉLIRE / MADAGASCAR: A LITTLE WILD</title></programme>
-<programme start="20261105074500 +0400" stop="20261105075300 +0400" channel="MBC5.mu"><title>PIPER'S PONY TALES</title></programme>
-<programme start="20261105075300 +0400" stop="20261105080100 +0400" channel="MBC5.mu"><title>PIPER'S PONY TALES</title></programme>
-<programme start="20261105080100 +0400" stop="20261105080600 +0400" channel="MBC5.mu"><title>GRANDS MOTS, PETITES HISTOIRES / BIG WORDS , SMALL STORIES</title></programme>
-<programme start="20261105080600 +0400" stop="20261105082900 +0400" channel="MBC5.mu"><title>JURASSIC WORLD :LA COLO DU CRÉTACÉ / JURASSIC WORLD : CAMP CRETACEOUS</title></programme>
-<programme start="20261105082900 +0400" stop="20261105083300 +0400" channel="MBC5.mu"><title>SLUGTERRA : ASCENSION</title></programme>
-<programme start="20261105083300 +0400" stop="20261105084000 +0400" channel="MBC5.mu"><title>JILI AND GULU</title></programme>
-<programme start="20261105084000 +0400" stop="20261105084700 +0400" channel="MBC5.mu"><title>JILI AND GULU</title></programme>
-<programme start="20261105084700 +0400" stop="20261105085900 +0400" channel="MBC5.mu"><title>MUSH MUSH AND THE MUSHABLES</title></programme>
-<programme start="20261105085900 +0400" stop="20261105090500 +0400" channel="MBC5.mu"><title>LES NOUVELLES AVENTURES DE CAILLOU / CAILLOU'S NEW ADVENTURE</title></programme>
-<programme start="20261105090500 +0400" stop="20261105092900 +0400" channel="MBC5.mu"><title>THE BOSS BABY: BACK IN THE CRIB / BABY BOSS : RETOUR AU BERCEAU</title></programme>
-<programme start="20261105092900 +0400" stop="20261105095000 +0400" channel="MBC5.mu"><title>AGENT 203</title></programme>
-<programme start="20261105095000 +0400" stop="20261105100200 +0400" channel="MBC5.mu"><title>WAFFLE, LE CHIEN WAOUH / WAFFLE THE WONDER DOG</title></programme>
-<programme start="20261105100200 +0400" stop="20261105102900 +0400" channel="MBC5.mu"><title>I WOKE UP A VAMPIRE / MON PETIT CÔTÉ VAMPIRE</title></programme>
-<programme start="20261105102900 +0400" stop="20261105111200 +0400" channel="MBC5.mu"><title>MY BODY MY MUSCLES: MORE THAN POWER AND PUMPING IRON</title></programme>
-<programme start="20261105111200 +0400" stop="20261105113800 +0400" channel="MBC5.mu"><title>AFRIMAXX</title></programme>
-<programme start="20261105113800 +0400" stop="20261105115500 +0400" channel="MBC5.mu"><title>PLANET A</title></programme>
-<programme start="20261105115500 +0400" stop="20261105120800 +0400" channel="MBC5.mu"><title>LET'S MAKE IT TASTY</title></programme>
-<programme start="20261105120800 +0400" stop="20261105123500 +0400" channel="MBC5.mu"><title>ARTS UNVEILED</title></programme>
-<programme start="20261105123500 +0400" stop="20261105130100 +0400" channel="MBC5.mu"><title>HOPE IS GREEN: CAN ALGAE SAVE THE WORLD?</title></programme>
-<programme start="20261105130100 +0400" stop="20261105135300 +0400" channel="MBC5.mu"><title>LA CHINE DU FUTUR</title></programme>
-<programme start="20261105135300 +0400" stop="20261105142100 +0400" channel="MBC5.mu"><title>CLOSE UP (DW)</title></programme>
-<programme start="20261105142100 +0400" stop="20261105144700 +0400" channel="MBC5.mu"><title>FOCUS ON EUROPE</title></programme>
-<programme start="20261105144700 +0400" stop="20261105150100 +0400" channel="MBC5.mu"><title>UNSEEN</title></programme>
-<programme start="20261105150100 +0400" stop="20261105150600 +0400" channel="MBC5.mu"><title>KATURI</title></programme>
-<programme start="20261105150600 +0400" stop="20261105151200 +0400" channel="MBC5.mu"><title>KATURI</title></programme>
-<programme start="20261105151200 +0400" stop="20261105152500 +0400" channel="MBC5.mu"><title>WORD PARTY / WORD PARTY PRESENTS : MATH!</title></programme>
-<programme start="20261105152500 +0400" stop="20261105154700 +0400" channel="MBC5.mu"><title>PEANUTS : CAMP SNOOPY / PEANUTS : LE CAMP DE VACANCES DE SNOOPY</title></programme>
-<programme start="20261105154700 +0400" stop="20261105155900 +0400" channel="MBC5.mu"><title>LES SCHTROUMPFS / THE SMURFS</title></programme>
-<programme start="20261105155900 +0400" stop="20261105162200 +0400" channel="MBC5.mu"><title>MISS BELLYFOO</title></programme>
-<programme start="20261105162200 +0400" stop="20261105164400 +0400" channel="MBC5.mu"><title>ICE HOCKEY STORM / ICE HOCKEY TOGETHER</title></programme>
-<programme start="20261105164400 +0400" stop="20261105165600 +0400" channel="MBC5.mu"><title>THE PRINCE OF CEYLON'S JOURNEY TO THE EAST</title></programme>
-<programme start="20261105165600 +0400" stop="20261105171200 +0400" channel="MBC5.mu"><title>BIFF &amp; CHIP</title></programme>
-<programme start="20261105171200 +0400" stop="20261105180000 +0400" channel="MBC5.mu"><title>BY TRAIN TO HUDSON BAY</title></programme>
-<programme start="20261105180000 +0400" stop="20261105183000 +0400" channel="MBC5.mu"><title>ECO INDIA</title></programme>
-<programme start="20261105183000 +0400" stop="20261105184300 +0400" channel="MBC5.mu"><title>ENTR</title></programme>
-<programme start="20261105184300 +0400" stop="20261105190000 +0400" channel="MBC5.mu"><title>ARTS UNVEILED SPECIAL</title></programme>
-<programme start="20261105190000 +0400" stop="20261105193000 +0400" channel="MBC5.mu"><title>NO ONE-SIZE-FITS-ALL MEDECINE: WHY WOMEN GET SICK DIFFERENTLY FROM MEN</title></programme>
-<programme start="20261105193000 +0400" stop="20261105200100 +0400" channel="MBC5.mu"><title>TOMORROW TODAY</title></programme>
-<programme start="20261105200100 +0400" stop="20261105203000 +0400" channel="MBC5.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
-<programme start="20261105203000 +0400" stop="20261105205000 +0400" channel="MBC5.mu"><title>NEWS</title></programme>
-<programme start="20261105205000 +0400" stop="20261105213900 +0400" channel="MBC5.mu"><title>ÉCLATS DE VIE / BROKEN LIVES</title></programme>
-<programme start="20261105213900 +0400" stop="20261105214400 +0400" channel="MBC5.mu"><title>LITTLE GOURMET</title></programme>
-<programme start="20261105214400 +0400" stop="20261105224100 +0400" channel="MBC5.mu"><title>KILLING TIME: THE SCIENCE OF BOREDOM</title></programme>
-<programme start="20261105224100 +0400" stop="20261105233200 +0400" channel="MBC5.mu"><title>OPIOIDS: BUSINESS AND ADDICTION</title></programme>
-<programme start="20261105233200 +0400" stop="20261105235800 +0400" channel="MBC5.mu"><title>ECO INDIA</title></programme>
-<programme start="20261105235800 +0400" stop="20261106000000 +0400" channel="MBC5.mu"><title>ENTR</title></programme>
-<programme start="20261105002000 +0400" stop="20261105093000 +0400" channel="MBC11.mu"><title>DD SPORTS</title></programme>
-<programme start="20261105093000 +0400" stop="20261105095900 +0400" channel="MBC11.mu"><title>HAPPY YOGA WITH SARAH STAR</title></programme>
-<programme start="20261105095900 +0400" stop="20261105103000 +0400" channel="MBC11.mu"><title>REV</title></programme>
-<programme start="20261105103000 +0400" stop="20261105104300 +0400" channel="MBC11.mu"><title>SPORTS LIFE</title></programme>
-<programme start="20261105104300 +0400" stop="20261105110900 +0400" channel="MBC11.mu"><title>SPORTS MAGAZINE</title></programme>
-<programme start="20261105110900 +0400" stop="20261105115900 +0400" channel="MBC11.mu"><title>HEXAGONE MMA</title></programme>
-<programme start="20261105115900 +0400" stop="20261105122500 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE STORIES</title></programme>
-<programme start="20261105122500 +0400" stop="20261105131700 +0400" channel="MBC11.mu"><title>RACE AGAIN</title></programme>
-<programme start="20261105131700 +0400" stop="20261105141700 +0400" channel="MBC11.mu"><title>ACTION FOOTBALL CLUB</title></programme>
-<programme start="20261105141700 +0400" stop="20261105161700 +0400" channel="MBC11.mu"><title>SPORTS MAGAZINE</title></programme>
-<programme start="20261105161700 +0400" stop="20261105170800 +0400" channel="MBC11.mu"><title>HEXAGONE MMA</title></programme>
-<programme start="20261105170800 +0400" stop="20261105180000 +0400" channel="MBC11.mu"><title>RACE AGAIN</title></programme>
-<programme start="20261105180000 +0400" stop="20261105182600 +0400" channel="MBC11.mu"><title>BA Z ENES</title></programme>
-<programme start="20261105182600 +0400" stop="20261105185200 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE STORIES</title></programme>
-<programme start="20261105185200 +0400" stop="20261105195200 +0400" channel="MBC11.mu"><title>ACTION FOOTBALL CLUB</title></programme>
-<programme start="20261105195200 +0400" stop="20261105201500 +0400" channel="MBC11.mu"><title>THE INSIDE LINE</title></programme>
-<programme start="20261105201500 +0400" stop="20261105210700 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE REVIEW</title></programme>
-<programme start="20261105210700 +0400" stop="20261105213900 +0400" channel="MBC11.mu"><title>LA  LIGA HIGHLIGHTS</title></programme>
-<programme start="20261105213900 +0400" stop="20261105220500 +0400" channel="MBC11.mu"><title>RODRIG SPOR</title></programme>
-<programme start="20261105220500 +0400" stop="20261105222800 +0400" channel="MBC11.mu"><title>THE EVOLUTION OF SPORT / FOOTBALL</title></programme>
-<programme start="20261105222800 +0400" stop="20261105231900 +0400" channel="MBC11.mu"><title>HEXAGONE MMA</title></programme>
-<programme start="20261105231900 +0400" stop="20261106000000 +0400" channel="MBC11.mu"><title>SPORTS MAGAZINE</title></programme>
-<programme start="20261105010200 +0400" stop="20261105030600 +0400" channel="MBC16.mu"><title>HELICOPTER EELA</title></programme>
-<programme start="20261105030600 +0400" stop="20261105032700 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105032700 +0400" stop="20261105033700 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105033700 +0400" stop="20261105034800 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105034800 +0400" stop="20261105035900 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
-<programme start="20261105035900 +0400" stop="20261105042100 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
-<programme start="20261105042100 +0400" stop="20261105044200 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
-<programme start="20261105044200 +0400" stop="20261105052800 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105052800 +0400" stop="20261105055100 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105055100 +0400" stop="20261105070700 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105070700 +0400" stop="20261105091000 +0400" channel="MBC16.mu"><title>HELICOPTER EELA</title></programme>
-<programme start="20261105091000 +0400" stop="20261105093100 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105093100 +0400" stop="20261105094200 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105094200 +0400" stop="20261105095300 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105095300 +0400" stop="20261105100400 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
-<programme start="20261105100400 +0400" stop="20261105102500 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
-<programme start="20261105102500 +0400" stop="20261105104700 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
-<programme start="20261105104700 +0400" stop="20261105113300 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105113300 +0400" stop="20261105115500 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105115500 +0400" stop="20261105131200 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105131200 +0400" stop="20261105151500 +0400" channel="MBC16.mu"><title>HELICOPTER EELA</title></programme>
-<programme start="20261105151500 +0400" stop="20261105153600 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105153600 +0400" stop="20261105154700 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105154700 +0400" stop="20261105155800 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105155800 +0400" stop="20261105160900 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
-<programme start="20261105160900 +0400" stop="20261105163000 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
-<programme start="20261105163000 +0400" stop="20261105165200 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
-<programme start="20261105165200 +0400" stop="20261105173800 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105173800 +0400" stop="20261105180000 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105180000 +0400" stop="20261105185800 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105185800 +0400" stop="20261105210600 +0400" channel="MBC16.mu"><title>RAKHWALA</title></programme>
-<programme start="20261105210600 +0400" stop="20261105212700 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
-<programme start="20261105212700 +0400" stop="20261105213800 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105213800 +0400" stop="20261105214900 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
-<programme start="20261105214900 +0400" stop="20261105220000 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
-<programme start="20261105220000 +0400" stop="20261105222100 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
-<programme start="20261105222100 +0400" stop="20261105224400 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
-<programme start="20261105224400 +0400" stop="20261105233200 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
-<programme start="20261105233200 +0400" stop="20261106000000 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106002000 +0400" stop="20261106002300 +0400" channel="MBC1.mu"><title>HD - ODD NEIGHBOURGS</title></programme>
+<programme start="20261106002300 +0400" stop="20261106003800 +0400" channel="MBC1.mu"><title>HD - LYING HEART / CORAZON QUE MIENTE</title></programme>
+<programme start="20261106003800 +0400" stop="20261106004700 +0400" channel="MBC1.mu"><title>HD - VIDEO KILLED THE RADIO STAR</title></programme>
+<programme start="20261106004700 +0400" stop="20261106010400 +0400" channel="MBC1.mu"><title>LITTLE GOURMET</title></programme>
+<programme start="20261106010400 +0400" stop="20261106014600 +0400" channel="MBC1.mu"><title>LAURA, UNA VIDA EXTRAORDINARIA /LAURA : AN EXTRAORDINARY LIFE</title></programme>
+<programme start="20261106014600 +0400" stop="20261106023000 +0400" channel="MBC1.mu"><title>HD - CHUCKY</title></programme>
+<programme start="20261106023000 +0400" stop="20261106023400 +0400" channel="MBC1.mu"><title>DELICIOUS MORNING</title></programme>
+<programme start="20261106023400 +0400" stop="20261106024400 +0400" channel="MBC1.mu"><title>ASIATIQUE</title></programme>
+<programme start="20261106024400 +0400" stop="20261106033300 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO</title></programme>
+<programme start="20261106033300 +0400" stop="20261106035600 +0400" channel="MBC1.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
+<programme start="20261106035600 +0400" stop="20261106041900 +0400" channel="MBC1.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
+<programme start="20261106041900 +0400" stop="20261106044000 +0400" channel="MBC1.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
+<programme start="20261106044000 +0400" stop="20261106052300 +0400" channel="MBC1.mu"><title>LE ROMAN DE LA VIE / PÁGINAS DA VIDA</title></programme>
+<programme start="20261106052300 +0400" stop="20261106054500 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
+<programme start="20261106054500 +0400" stop="20261106061300 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
+<programme start="20261106061300 +0400" stop="20261106061400 +0400" channel="MBC1.mu"><title>L'HYMNE NATIONAL</title></programme>
+<programme start="20261106061400 +0400" stop="20261106063700 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
+<programme start="20261106063700 +0400" stop="20261106065900 +0400" channel="MBC1.mu"><title>HD - L'HERITIERE / LA HERENCIA</title></programme>
+<programme start="20261106065900 +0400" stop="20261106074900 +0400" channel="MBC1.mu"><title>HD - L'HOMME QUI VALAIT TROIS MILLIARDS/THE SIX MILLION DOLLAR MAN</title></programme>
+<programme start="20261106074900 +0400" stop="20261106083400 +0400" channel="MBC1.mu"><title>LES ENQUETES DU JUGE DI / JUDGE DEE'S MYSTERY</title></programme>
+<programme start="20261106083400 +0400" stop="20261106085800 +0400" channel="MBC1.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
+<programme start="20261106085800 +0400" stop="20261106092700 +0400" channel="MBC1.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
+<programme start="20261106092700 +0400" stop="20261106111700 +0400" channel="MBC1.mu"><title>LOVE AGAIN - UN PEU, BEAUCOUP,</title></programme>
+<programme start="20261106111700 +0400" stop="20261106112800 +0400" channel="MBC1.mu"><title>ASIATIQUE</title></programme>
+<programme start="20261106112800 +0400" stop="20261106115300 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS</title></programme>
+<programme start="20261106115300 +0400" stop="20261106120100 +0400" channel="MBC1.mu"><title>DELICIOUS MORNING</title></programme>
+<programme start="20261106120100 +0400" stop="20261106122100 +0400" channel="MBC1.mu"><title>LE JOURNAL DE LA MI-JOURNEE</title></programme>
+<programme start="20261106122100 +0400" stop="20261106123600 +0400" channel="MBC1.mu"><title>HD - INFO EN LANGUE DES SIGNES</title></programme>
+<programme start="20261106123600 +0400" stop="20261106132600 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO</title></programme>
+<programme start="20261106132600 +0400" stop="20261106134800 +0400" channel="MBC1.mu"><title>HD - LYING HEART / CORAZON QUE MIENTE</title></programme>
+<programme start="20261106134800 +0400" stop="20261106141100 +0400" channel="MBC1.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
+<programme start="20261106141100 +0400" stop="20261106150000 +0400" channel="MBC1.mu"><title>ÉCLATS DE VIE / BROKEN LIVES</title></programme>
+<programme start="20261106150000 +0400" stop="20261106152000 +0400" channel="MBC1.mu"><title>SAMACHAR</title></programme>
+<programme start="20261106152000 +0400" stop="20261106173100 +0400" channel="MBC1.mu"><title>JAMAIS PLUS / IT ENDS WITH US</title></programme>
+<programme start="20261106173100 +0400" stop="20261106180400 +0400" channel="MBC1.mu"><title>HD - HAPPILY EVER AFTER / ETERNAMENTE AMÁNDONOS</title></programme>
+<programme start="20261106180400 +0400" stop="20261106183400 +0400" channel="MBC1.mu"><title>SAMACHAR</title></programme>
+<programme start="20261106183400 +0400" stop="20261106183600 +0400" channel="MBC1.mu"><title>SAYINGS RADHA KRISHNA</title></programme>
+<programme start="20261106183600 +0400" stop="20261106190400 +0400" channel="MBC1.mu"><title>SHIV SHAKTI</title></programme>
+<programme start="20261106190400 +0400" stop="20261106193400 +0400" channel="MBC1.mu"><title>19 MINUTES - LE POINT</title></programme>
+<programme start="20261106193400 +0400" stop="20261106200400 +0400" channel="MBC1.mu"><title>LE JOURNAL TELEVISE</title></programme>
+<programme start="20261106200400 +0400" stop="20261106200800 +0400" channel="MBC1.mu"><title>LA METEO</title></programme>
+<programme start="20261106200800 +0400" stop="20261106201800 +0400" channel="MBC1.mu"><title>LE JOURNAL DES SPORTS</title></programme>
+<programme start="20261106201800 +0400" stop="20261106202100 +0400" channel="MBC1.mu"><title>ZERO STRESS AVEK MISELAINE</title></programme>
+<programme start="20261106202100 +0400" stop="20261106203400 +0400" channel="MBC1.mu"><title>NOU TRAVAY NOU LAVENIR</title></programme>
+<programme start="20261106203400 +0400" stop="20261106210400 +0400" channel="MBC1.mu"><title>MAGAZINE</title></programme>
+<programme start="20261106210400 +0400" stop="20261106231200 +0400" channel="MBC1.mu"><title>LA VÉRITÉ / THE TRUTH</title></programme>
+<programme start="20261106231200 +0400" stop="20261107000000 +0400" channel="MBC1.mu"><title>LE CERCLE DE FEU / RODA DE FOGO</title></programme>
+<programme start="20261106000000 +0400" stop="20261106001800 +0400" channel="MBC2.mu"><title>RODRIG PROG : FEMININ PLURIEL</title></programme>
+<programme start="20261106001800 +0400" stop="20261106003100 +0400" channel="MBC2.mu"><title>TOUS EGAUX</title></programme>
+<programme start="20261106003100 +0400" stop="20261106004900 +0400" channel="MBC2.mu"><title>SAVEURS PLUS</title></programme>
+<programme start="20261106004900 +0400" stop="20261106005500 +0400" channel="MBC2.mu"><title>PAUSE CUISINE - SPECIAL DIVALI</title></programme>
+<programme start="20261106005500 +0400" stop="20261106011000 +0400" channel="MBC2.mu"><title>MBC PRODUCTION</title></programme>
+<programme start="20261106011000 +0400" stop="20261106013300 +0400" channel="MBC2.mu"><title>LAVI ZOLI AN XXL</title></programme>
+<programme start="20261106013300 +0400" stop="20261106015900 +0400" channel="MBC2.mu"><title>NOU LATER NOU LAMER NOU RISES</title></programme>
+<programme start="20261106015900 +0400" stop="20261106022600 +0400" channel="MBC2.mu"><title>NOU LATER NOU LAMER NOU RISES</title></programme>
+<programme start="20261106022600 +0400" stop="20261106025100 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN</title></programme>
+<programme start="20261106025100 +0400" stop="20261106031700 +0400" channel="MBC2.mu"><title>PAROLES AGRICOLES</title></programme>
+<programme start="20261106031700 +0400" stop="20261106034400 +0400" channel="MBC2.mu"><title>ENCOUNTER</title></programme>
+<programme start="20261106034400 +0400" stop="20261106041500 +0400" channel="MBC2.mu"><title>GLWAR DANTAN</title></programme>
+<programme start="20261106041500 +0400" stop="20261106050700 +0400" channel="MBC2.mu"><title>UPCLOSE AND PERSONAL</title></programme>
+<programme start="20261106050700 +0400" stop="20261106053800 +0400" channel="MBC2.mu"><title>RODRIG PROG - RODRIGUES DANCE FESTIVAL COMPETITION &amp; SHOW</title></programme>
+<programme start="20261106053800 +0400" stop="20261106055100 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT</title></programme>
+<programme start="20261106055100 +0400" stop="20261106060000 +0400" channel="MBC2.mu"><title>ARSIV MBC - FER ROULE :</title></programme>
+<programme start="20261106060000 +0400" stop="20261106061700 +0400" channel="MBC2.mu"><title>LA MATINALE - RADIO MAURICE</title></programme>
+<programme start="20261106061700 +0400" stop="20261106091000 +0400" channel="MBC2.mu"><title>TOUS EGAUX</title></programme>
+<programme start="20261106091000 +0400" stop="20261106093500 +0400" channel="MBC2.mu"><title>PAROLES AGRICOLES</title></programme>
+<programme start="20261106093500 +0400" stop="20261106103000 +0400" channel="MBC2.mu"><title>UPCLOSE AND PERSONAL</title></programme>
+<programme start="20261106103000 +0400" stop="20261106105500 +0400" channel="MBC2.mu"><title>SAVER KILTIREL</title></programme>
+<programme start="20261106105500 +0400" stop="20261106113000 +0400" channel="MBC2.mu"><title>GLWAR DANTAN</title></programme>
+<programme start="20261106113000 +0400" stop="20261106120000 +0400" channel="MBC2.mu"><title>ARSIV MBC - FER ROULE :</title></programme>
+<programme start="20261106120000 +0400" stop="20261106123500 +0400" channel="MBC2.mu"><title>RODRIG PROG - RODRIGUES DANCE FESTIVAL COMPETITION &amp; SHOW</title></programme>
+<programme start="20261106123500 +0400" stop="20261106125000 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT</title></programme>
+<programme start="20261106125000 +0400" stop="20261106130000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
+<programme start="20261106130000 +0400" stop="20261106133000 +0400" channel="MBC2.mu"><title>LA SOSIETE</title></programme>
+<programme start="20261106133000 +0400" stop="20261106135000 +0400" channel="MBC2.mu"><title>RODRIG PROG : FEMININ PLURIEL</title></programme>
+<programme start="20261106135000 +0400" stop="20261106142000 +0400" channel="MBC2.mu"><title>NOU LATER NOU LAMER NOU RISES</title></programme>
+<programme start="20261106142000 +0400" stop="20261106145000 +0400" channel="MBC2.mu"><title>EMOTION EN AVANT PLAN</title></programme>
+<programme start="20261106145000 +0400" stop="20261106150500 +0400" channel="MBC2.mu"><title>ARTIZAN</title></programme>
+<programme start="20261106150500 +0400" stop="20261106153000 +0400" channel="MBC2.mu"><title>SAVER KILTIREL</title></programme>
+<programme start="20261106153000 +0400" stop="20261106155500 +0400" channel="MBC2.mu"><title>LAVI ZOLI AN XXL</title></programme>
+<programme start="20261106155500 +0400" stop="20261106162500 +0400" channel="MBC2.mu"><title>PAROLES AGRICOLES</title></programme>
+<programme start="20261106162500 +0400" stop="20261106165500 +0400" channel="MBC2.mu"><title>ENCOUNTER</title></programme>
+<programme start="20261106165500 +0400" stop="20261106170100 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
+<programme start="20261106170100 +0400" stop="20261106173100 +0400" channel="MBC2.mu"><title>LA SOSIETE</title></programme>
+<programme start="20261106173100 +0400" stop="20261106180100 +0400" channel="MBC2.mu"><title>DEEPAVALI &amp; RISHI NIRVAN</title></programme>
+<programme start="20261106180100 +0400" stop="20261106183000 +0400" channel="MBC2.mu"><title>UNE FAMILLE PAS SI PARFAITE / SI NOS DEJAN</title></programme>
+<programme start="20261106183000 +0400" stop="20261106190000 +0400" channel="MBC2.mu"><title>L'AMOUR N'A PAS DE RECETTE / EL AMOR NO TIENE RECETA</title></programme>
+<programme start="20261106190000 +0400" stop="20261106193000 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL</title></programme>
+<programme start="20261106193000 +0400" stop="20261106194500 +0400" channel="MBC2.mu"><title>PARLONS SANTE SENIOR</title></programme>
+<programme start="20261106194500 +0400" stop="20261106200000 +0400" channel="MBC2.mu"><title>EVASION</title></programme>
+<programme start="20261106200000 +0400" stop="20261106201500 +0400" channel="MBC2.mu"><title>ZOURNAL RODRIG</title></programme>
+<programme start="20261106201500 +0400" stop="20261106203000 +0400" channel="MBC2.mu"><title>SEKIRITE LOR LAROUT</title></programme>
+<programme start="20261106203000 +0400" stop="20261106214500 +0400" channel="MBC2.mu"><title>FUN FRIDAY WITH JERRY</title></programme>
+<programme start="20261106214500 +0400" stop="20261106221100 +0400" channel="MBC2.mu"><title>LA SOSIETE</title></programme>
+<programme start="20261106221100 +0400" stop="20261106223700 +0400" channel="MBC2.mu"><title>LOCAL PRODUCTION MBC 2</title></programme>
+<programme start="20261106223700 +0400" stop="20261106230500 +0400" channel="MBC2.mu"><title>GENERATIONS J - PLUMES EN QUETE DE VOIX</title></programme>
+<programme start="20261106230500 +0400" stop="20261106232500 +0400" channel="MBC2.mu"><title>ZOURNAL KREOL (REDIFFUSION)</title></programme>
+<programme start="20261106232500 +0400" stop="20261106233000 +0400" channel="MBC2.mu"><title>LA JOURNEE SOUS LE REGARD DU SEIGNEUR</title></programme>
+<programme start="20261106233000 +0400" stop="20261106234500 +0400" channel="MBC2.mu"><title>ENTREPRENEURIAT AU FEMININ</title></programme>
+<programme start="20261106234500 +0400" stop="20261107000000 +0400" channel="MBC2.mu"><title>MON JARDIN MA MAISON</title></programme>
+<programme start="20261106002000 +0400" stop="20261106004600 +0400" channel="MBC3.mu"><title>4 DAYS OF DIVALI CELEBRATIONS</title></programme>
+<programme start="20261106004600 +0400" stop="20261106011300 +0400" channel="MBC3.mu"><title>MBC PROD THURSDAY 05/11/26</title></programme>
+<programme start="20261106011300 +0400" stop="20261106013600 +0400" channel="MBC3.mu"><title>HUNARBAAZ</title></programme>
+<programme start="20261106013600 +0400" stop="20261106021500 +0400" channel="MBC3.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106021500 +0400" stop="20261106022600 +0400" channel="MBC3.mu"><title>AMRIT VANI</title></programme>
+<programme start="20261106022600 +0400" stop="20261106024700 +0400" channel="MBC3.mu"><title>BHAJAN SANDHYA</title></programme>
+<programme start="20261106024700 +0400" stop="20261106031400 +0400" channel="MBC3.mu"><title>4 DAYS OF DIVALI CELEBRATIONS</title></programme>
+<programme start="20261106031400 +0400" stop="20261106050000 +0400" channel="MBC3.mu"><title>MBC PROD THURSDAY 05/11/26</title></programme>
+<programme start="20261106050000 +0400" stop="20261106050400 +0400" channel="MBC3.mu"><title>AASTHA TV</title></programme>
+<programme start="20261106050400 +0400" stop="20261106070000 +0400" channel="MBC3.mu"><title>HUNARBAAZ</title></programme>
+<programme start="20261106070000 +0400" stop="20261106080000 +0400" channel="MBC3.mu"><title>INDRADHANUSH</title></programme>
+<programme start="20261106080000 +0400" stop="20261106081100 +0400" channel="MBC3.mu"><title>AMRIT VANI</title></programme>
+<programme start="20261106081100 +0400" stop="20261106083300 +0400" channel="MBC3.mu"><title>BHAJAN SANDHYA</title></programme>
+<programme start="20261106083300 +0400" stop="20261106090100 +0400" channel="MBC3.mu"><title>4 DAYS OF DIVALI CELEBRATIONS</title></programme>
+<programme start="20261106090100 +0400" stop="20261106100100 +0400" channel="MBC3.mu"><title>LIVE FROM STUDIO D</title></programme>
+<programme start="20261106100100 +0400" stop="20261106102300 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
+<programme start="20261106102300 +0400" stop="20261106104400 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
+<programme start="20261106104400 +0400" stop="20261106110500 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
+<programme start="20261106110500 +0400" stop="20261106113200 +0400" channel="MBC3.mu"><title>NA UMRA KI SEEMA HO</title></programme>
+<programme start="20261106113200 +0400" stop="20261106120200 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
+<programme start="20261106120200 +0400" stop="20261106150300 +0400" channel="MBC3.mu"><title>ZAMANA</title></programme>
+<programme start="20261106150300 +0400" stop="20261106152300 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
+<programme start="20261106152300 +0400" stop="20261106155200 +0400" channel="MBC3.mu"><title>SAYINGS RADHA KRISHNA</title></programme>
+<programme start="20261106155200 +0400" stop="20261106161300 +0400" channel="MBC3.mu"><title>DIL KO TUMSE PYAAR HUA</title></programme>
+<programme start="20261106161300 +0400" stop="20261106163400 +0400" channel="MBC3.mu"><title>DIL KO TUMSE PYAAR HUA</title></programme>
+<programme start="20261106163400 +0400" stop="20261106173400 +0400" channel="MBC3.mu"><title>AAJ KI CHARCHA</title></programme>
+<programme start="20261106173400 +0400" stop="20261106180400 +0400" channel="MBC3.mu"><title>SHIV SHAKTI</title></programme>
+<programme start="20261106180400 +0400" stop="20261106183400 +0400" channel="MBC3.mu"><title>SAMACHAR</title></programme>
+<programme start="20261106183400 +0400" stop="20261106183600 +0400" channel="MBC3.mu"><title>SAYINGS RADHA KRISHNA</title></programme>
+<programme start="20261106183600 +0400" stop="20261106190200 +0400" channel="MBC3.mu"><title>MATI KE MOL</title></programme>
+<programme start="20261106190200 +0400" stop="20261106200400 +0400" channel="MBC3.mu"><title>GEET GAWAI KE NAWA ROOP</title></programme>
+<programme start="20261106200400 +0400" stop="20261106202600 +0400" channel="MBC3.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106202600 +0400" stop="20261106204800 +0400" channel="MBC3.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106204800 +0400" stop="20261106211000 +0400" channel="MBC3.mu"><title>BEYHADH 2</title></programme>
+<programme start="20261106211000 +0400" stop="20261106213400 +0400" channel="MBC3.mu"><title>SHRIMAD RAMAYAN</title></programme>
+<programme start="20261106213400 +0400" stop="20261106215600 +0400" channel="MBC3.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106215600 +0400" stop="20261106221900 +0400" channel="MBC3.mu"><title>INDRADHANUSH</title></programme>
+<programme start="20261106221900 +0400" stop="20261106235000 +0400" channel="MBC3.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106235000 +0400" stop="20261107000000 +0400" channel="MBC3.mu"><title>MATI KE MOL</title></programme>
+<programme start="20261106020000 +0400" stop="20261106023100 +0400" channel="MBC4.mu"><title>UDNE KI AASHA</title></programme>
+<programme start="20261106023100 +0400" stop="20261106025800 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR</title></programme>
+<programme start="20261106025800 +0400" stop="20261106032800 +0400" channel="MBC4.mu"><title>PANDYA STORE</title></programme>
+<programme start="20261106032800 +0400" stop="20261106035800 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI</title></programme>
+<programme start="20261106035800 +0400" stop="20261106042800 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI</title></programme>
+<programme start="20261106042800 +0400" stop="20261106045900 +0400" channel="MBC4.mu"><title>ANUPAMAA</title></programme>
+<programme start="20261106045900 +0400" stop="20261106052900 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI</title></programme>
+<programme start="20261106052900 +0400" stop="20261106055900 +0400" channel="MBC4.mu"><title>DHRUV TARA</title></programme>
+<programme start="20261106055900 +0400" stop="20261106062900 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106062900 +0400" stop="20261106065900 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA</title></programme>
+<programme start="20261106065900 +0400" stop="20261106093000 +0400" channel="MBC4.mu"><title>8 X 10 TASVEER</title></programme>
+<programme start="20261106093000 +0400" stop="20261106100000 +0400" channel="MBC4.mu"><title>UDNE KI AASHA</title></programme>
+<programme start="20261106100000 +0400" stop="20261106102700 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR</title></programme>
+<programme start="20261106102700 +0400" stop="20261106105700 +0400" channel="MBC4.mu"><title>PANDYA STORE</title></programme>
+<programme start="20261106105700 +0400" stop="20261106112800 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI</title></programme>
+<programme start="20261106112800 +0400" stop="20261106115800 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI</title></programme>
+<programme start="20261106115800 +0400" stop="20261106122900 +0400" channel="MBC4.mu"><title>ANUPAMAA</title></programme>
+<programme start="20261106122900 +0400" stop="20261106125900 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI</title></programme>
+<programme start="20261106125900 +0400" stop="20261106132900 +0400" channel="MBC4.mu"><title>DHRUV TARA</title></programme>
+<programme start="20261106132900 +0400" stop="20261106135900 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106135900 +0400" stop="20261106142500 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA</title></programme>
+<programme start="20261106142500 +0400" stop="20261106150000 +0400" channel="MBC4.mu"><title>RADHA MOHAN</title></programme>
+<programme start="20261106150000 +0400" stop="20261106153000 +0400" channel="MBC4.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106153000 +0400" stop="20261106182800 +0400" channel="MBC4.mu"><title>AUR PYAAR HO GAYA</title></programme>
+<programme start="20261106182800 +0400" stop="20261106185800 +0400" channel="MBC4.mu"><title>SAMACHAR</title></programme>
+<programme start="20261106185800 +0400" stop="20261106193000 +0400" channel="MBC4.mu"><title>UDNE KI AASHA</title></programme>
+<programme start="20261106193000 +0400" stop="20261106195700 +0400" channel="MBC4.mu"><title>DO CHUTKI SINDOOR</title></programme>
+<programme start="20261106195700 +0400" stop="20261106202600 +0400" channel="MBC4.mu"><title>PANDYA STORE</title></programme>
+<programme start="20261106202600 +0400" stop="20261106205700 +0400" channel="MBC4.mu"><title>MANNAT – HAR KHUSHI PAANE KI</title></programme>
+<programme start="20261106205700 +0400" stop="20261106212700 +0400" channel="MBC4.mu"><title>SAAVI KI SAVAARI</title></programme>
+<programme start="20261106212700 +0400" stop="20261106215700 +0400" channel="MBC4.mu"><title>ANUPAMAA</title></programme>
+<programme start="20261106215700 +0400" stop="20261106222700 +0400" channel="MBC4.mu"><title>PYAAR KA PEHLA ADHYAYA: SHIV SHAKTI</title></programme>
+<programme start="20261106222700 +0400" stop="20261106225700 +0400" channel="MBC4.mu"><title>DHRUV TARA</title></programme>
+<programme start="20261106225700 +0400" stop="20261106232800 +0400" channel="MBC4.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106232800 +0400" stop="20261106235800 +0400" channel="MBC4.mu"><title>ALADDIN – NAAM TOH SUNA HOGA</title></programme>
+<programme start="20261106235800 +0400" stop="20261107000000 +0400" channel="MBC4.mu"><title>AUR PYAAR HO GAYA</title></programme>
+<programme start="20261106001100 +0400" stop="20261106002400 +0400" channel="MBC5.mu"><title>ARTS UNVEILED SPECIAL</title></programme>
+<programme start="20261106002400 +0400" stop="20261106005200 +0400" channel="MBC5.mu"><title>NO ONE-SIZE-FITS-ALL MEDECINE: WHY WOMEN GET SICK DIFFERENTLY FROM MEN</title></programme>
+<programme start="20261106005200 +0400" stop="20261106011800 +0400" channel="MBC5.mu"><title>TOMORROW TODAY</title></programme>
+<programme start="20261106011800 +0400" stop="20261106020100 +0400" channel="MBC5.mu"><title>INTERNATIONAL ADOPTIONS: A GLOBAL SCANDAL</title></programme>
+<programme start="20261106020100 +0400" stop="20261106024400 +0400" channel="MBC5.mu"><title>ALI AND THE SOUND OF THE BALL</title></programme>
+<programme start="20261106024400 +0400" stop="20261106033600 +0400" channel="MBC5.mu"><title>DISABLED ON THE ISLAND OF JAVA: A VILLAGE SINKING INTO THE SEA</title></programme>
+<programme start="20261106033600 +0400" stop="20261106041800 +0400" channel="MBC5.mu"><title>SURVIVING GLOBALISATION</title></programme>
+<programme start="20261106041800 +0400" stop="20261106051100 +0400" channel="MBC5.mu"><title>KILLING TIME: THE SCIENCE OF BOREDOM</title></programme>
+<programme start="20261106051100 +0400" stop="20261106060000 +0400" channel="MBC5.mu"><title>OPIOIDS: BUSINESS AND ADDICTION</title></programme>
+<programme start="20261106060000 +0400" stop="20261106062500 +0400" channel="MBC5.mu"><title>EYE ON SADC</title></programme>
+<programme start="20261106062500 +0400" stop="20261106063800 +0400" channel="MBC5.mu"><title>ENTR</title></programme>
+<programme start="20261106063800 +0400" stop="20261106065000 +0400" channel="MBC5.mu"><title>ARTS UNVEILED SPECIAL</title></programme>
+<programme start="20261106065000 +0400" stop="20261106070000 +0400" channel="MBC5.mu"><title>JAPAN VIDEO TOPICS MARCH 2026</title></programme>
+<programme start="20261106070000 +0400" stop="20261106071100 +0400" channel="MBC5.mu"><title>BESTIOLES MOTEL / BEST BUGS FOREVER</title></programme>
+<programme start="20261106071100 +0400" stop="20261106072200 +0400" channel="MBC5.mu"><title>BESTIOLES MOTEL / BEST BUGS FOREVER</title></programme>
+<programme start="20261106072200 +0400" stop="20261106074500 +0400" channel="MBC5.mu"><title>MADAGASCAR : LA SAVANE EN DÉLIRE / MADAGASCAR: A LITTLE WILD</title></programme>
+<programme start="20261106074500 +0400" stop="20261106075200 +0400" channel="MBC5.mu"><title>PIPER'S PONY TALES</title></programme>
+<programme start="20261106075200 +0400" stop="20261106080000 +0400" channel="MBC5.mu"><title>PIPER'S PONY TALES</title></programme>
+<programme start="20261106080000 +0400" stop="20261106080500 +0400" channel="MBC5.mu"><title>GRANDS MOTS, PETITES HISTOIRES / BIG WORDS , SMALL STORIES</title></programme>
+<programme start="20261106080500 +0400" stop="20261106082800 +0400" channel="MBC5.mu"><title>JURASSIC WORLD :LA COLO DU CRÉTACÉ / JURASSIC WORLD : CAMP CRETACEOUS</title></programme>
+<programme start="20261106082800 +0400" stop="20261106083200 +0400" channel="MBC5.mu"><title>SLUGTERRA : ASCENSION</title></programme>
+<programme start="20261106083200 +0400" stop="20261106083900 +0400" channel="MBC5.mu"><title>JILI AND GULU</title></programme>
+<programme start="20261106083900 +0400" stop="20261106084600 +0400" channel="MBC5.mu"><title>JILI AND GULU</title></programme>
+<programme start="20261106084600 +0400" stop="20261106085700 +0400" channel="MBC5.mu"><title>MUSH MUSH AND THE MUSHABLES</title></programme>
+<programme start="20261106085700 +0400" stop="20261106090400 +0400" channel="MBC5.mu"><title>LES NOUVELLES AVENTURES DE CAILLOU / CAILLOU'S NEW ADVENTURE</title></programme>
+<programme start="20261106090400 +0400" stop="20261106092800 +0400" channel="MBC5.mu"><title>THE BOSS BABY: BACK IN THE CRIB / BABY BOSS : RETOUR AU BERCEAU</title></programme>
+<programme start="20261106092800 +0400" stop="20261106094900 +0400" channel="MBC5.mu"><title>AGENT 203</title></programme>
+<programme start="20261106094900 +0400" stop="20261106100000 +0400" channel="MBC5.mu"><title>WAFFLE, LE CHIEN WAOUH / WAFFLE THE WONDER DOG</title></programme>
+<programme start="20261106100000 +0400" stop="20261106103000 +0400" channel="MBC5.mu"><title>I WOKE UP A VAMPIRE / MON PETIT CÔTÉ VAMPIRE</title></programme>
+<programme start="20261106103000 +0400" stop="20261106111300 +0400" channel="MBC5.mu"><title>SURVIVING GLOBALISATION</title></programme>
+<programme start="20261106111300 +0400" stop="20261106113900 +0400" channel="MBC5.mu"><title>ECO INDIA</title></programme>
+<programme start="20261106113900 +0400" stop="20261106115500 +0400" channel="MBC5.mu"><title>ENTR</title></programme>
+<programme start="20261106115500 +0400" stop="20261106120800 +0400" channel="MBC5.mu"><title>ARTS UNVEILED SPECIAL</title></programme>
+<programme start="20261106120800 +0400" stop="20261106123600 +0400" channel="MBC5.mu"><title>NO ONE-SIZE-FITS-ALL MEDECINE: WHY WOMEN GET SICK DIFFERENTLY FROM MEN</title></programme>
+<programme start="20261106123600 +0400" stop="20261106130600 +0400" channel="MBC5.mu"><title>TOMORROW TODAY</title></programme>
+<programme start="20261106130600 +0400" stop="20261106135800 +0400" channel="MBC5.mu"><title>KILLING TIME: THE SCIENCE OF BOREDOM</title></programme>
+<programme start="20261106135800 +0400" stop="20261106144100 +0400" channel="MBC5.mu"><title>INTERNATIONAL ADOPTIONS: A GLOBAL SCANDAL</title></programme>
+<programme start="20261106144100 +0400" stop="20261106145200 +0400" channel="MBC5.mu"><title>SCIENCE 2026</title></programme>
+<programme start="20261106145200 +0400" stop="20261106150000 +0400" channel="MBC5.mu"><title>JAPAN VIDEO TOPICS MARCH 2026</title></programme>
+<programme start="20261106150000 +0400" stop="20261106150500 +0400" channel="MBC5.mu"><title>KATURI</title></programme>
+<programme start="20261106150500 +0400" stop="20261106151100 +0400" channel="MBC5.mu"><title>KATURI</title></programme>
+<programme start="20261106151100 +0400" stop="20261106152300 +0400" channel="MBC5.mu"><title>WORD PARTY / WORD PARTY PRESENTS : MATH!</title></programme>
+<programme start="20261106152300 +0400" stop="20261106154500 +0400" channel="MBC5.mu"><title>PEANUTS : CAMP SNOOPY / PEANUTS : LE CAMP DE VACANCES DE SNOOPY</title></programme>
+<programme start="20261106154500 +0400" stop="20261106155700 +0400" channel="MBC5.mu"><title>LES SCHTROUMPFS / THE SMURFS</title></programme>
+<programme start="20261106155700 +0400" stop="20261106162000 +0400" channel="MBC5.mu"><title>MISS BELLYFOO</title></programme>
+<programme start="20261106162000 +0400" stop="20261106164200 +0400" channel="MBC5.mu"><title>ICE HOCKEY STORM / ICE HOCKEY TOGETHER</title></programme>
+<programme start="20261106164200 +0400" stop="20261106165400 +0400" channel="MBC5.mu"><title>THE PRINCE OF CEYLON'S JOURNEY TO THE EAST</title></programme>
+<programme start="20261106165400 +0400" stop="20261106170900 +0400" channel="MBC5.mu"><title>BIFF &amp; CHIP</title></programme>
+<programme start="20261106170900 +0400" stop="20261106180000 +0400" channel="MBC5.mu"><title>BY TRAIN ALONG THE FJORD COAST OF NORWAY</title></programme>
+<programme start="20261106180000 +0400" stop="20261106183000 +0400" channel="MBC5.mu"><title>EYE ON SADC</title></programme>
+<programme start="20261106183000 +0400" stop="20261106184200 +0400" channel="MBC5.mu"><title>HER - WOMEN IN ASIA</title></programme>
+<programme start="20261106184200 +0400" stop="20261106190000 +0400" channel="MBC5.mu"><title>TRANSFORMING BUSINESS</title></programme>
+<programme start="20261106190000 +0400" stop="20261106193000 +0400" channel="MBC5.mu"><title>ECO AFRICA</title></programme>
+<programme start="20261106193000 +0400" stop="20261106200100 +0400" channel="MBC5.mu"><title>EUROMAXX</title></programme>
+<programme start="20261106200100 +0400" stop="20261106203000 +0400" channel="MBC5.mu"><title>TERRE D'ESPERANCE / LA ESPERANZA</title></programme>
+<programme start="20261106203000 +0400" stop="20261106205000 +0400" channel="MBC5.mu"><title>NEWS</title></programme>
+<programme start="20261106205000 +0400" stop="20261106213700 +0400" channel="MBC5.mu"><title>ÉCLATS DE VIE / BROKEN LIVES</title></programme>
+<programme start="20261106213700 +0400" stop="20261106214200 +0400" channel="MBC5.mu"><title>LITTLE GOURMET</title></programme>
+<programme start="20261106214200 +0400" stop="20261106222800 +0400" channel="MBC5.mu"><title>EUROPE'S OAK TREES: NATURE'S GREAT ADAPTERS</title></programme>
+<programme start="20261106222800 +0400" stop="20261106231000 +0400" channel="MBC5.mu"><title>LUXURY BEAUTY</title></programme>
+<programme start="20261106231000 +0400" stop="20261106235300 +0400" channel="MBC5.mu"><title>THE SAN ANDREAS FAULT: BRACING FOR THE BIG ONE</title></programme>
+<programme start="20261106235300 +0400" stop="20261107000000 +0400" channel="MBC5.mu"><title>THE STONE AGE DIET</title></programme>
+<programme start="20261106001900 +0400" stop="20261106093000 +0400" channel="MBC11.mu"><title>DD SPORTS</title></programme>
+<programme start="20261106093000 +0400" stop="20261106095300 +0400" channel="MBC11.mu"><title>ABU</title></programme>
+<programme start="20261106095300 +0400" stop="20261106102200 +0400" channel="MBC11.mu"><title>THE EVOLUTION OF SPORT / FOOTBALL</title></programme>
+<programme start="20261106102200 +0400" stop="20261106105000 +0400" channel="MBC11.mu"><title>THE INSIDE LINE</title></programme>
+<programme start="20261106105000 +0400" stop="20261106111600 +0400" channel="MBC11.mu"><title>RODRIG SPOR</title></programme>
+<programme start="20261106111600 +0400" stop="20261106121700 +0400" channel="MBC11.mu"><title>HEXAGONE MMA</title></programme>
+<programme start="20261106121700 +0400" stop="20261106125000 +0400" channel="MBC11.mu"><title>BA Z ENES</title></programme>
+<programme start="20261106125000 +0400" stop="20261106134200 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE REVIEW</title></programme>
+<programme start="20261106134200 +0400" stop="20261106141200 +0400" channel="MBC11.mu"><title>LA  LIGA HIGHLIGHTS</title></programme>
+<programme start="20261106141200 +0400" stop="20261106161200 +0400" channel="MBC11.mu"><title>SPORTS MAGAZINE</title></programme>
+<programme start="20261106161200 +0400" stop="20261106171400 +0400" channel="MBC11.mu"><title>HEXAGONE MMA</title></programme>
+<programme start="20261106171400 +0400" stop="20261106174000 +0400" channel="MBC11.mu"><title>BA Z ENES</title></programme>
+<programme start="20261106174000 +0400" stop="20261106180300 +0400" channel="MBC11.mu"><title>THE INSIDE LINE</title></programme>
+<programme start="20261106180300 +0400" stop="20261106182900 +0400" channel="MBC11.mu"><title>SPORTS MAGAZINE</title></programme>
+<programme start="20261106182900 +0400" stop="20261106185900 +0400" channel="MBC11.mu"><title>LA  LIGA HIGHLIGHTS</title></programme>
+<programme start="20261106185900 +0400" stop="20261106195100 +0400" channel="MBC11.mu"><title>PREMIER LEAGUE REVIEW</title></programme>
+<programme start="20261106195100 +0400" stop="20261106201500 +0400" channel="MBC11.mu"><title>FOOTBALL REVIEW</title></programme>
+<programme start="20261106201500 +0400" stop="20261106204500 +0400" channel="MBC11.mu"><title>TURF TIPS</title></programme>
+<programme start="20261106204500 +0400" stop="20261106214500 +0400" channel="MBC11.mu"><title>SPORTS MAGAZINE</title></programme>
+<programme start="20261106214500 +0400" stop="20261106220900 +0400" channel="MBC11.mu"><title>FISU WORLD UNIVERSITY GAMES</title></programme>
+<programme start="20261106220900 +0400" stop="20261106231000 +0400" channel="MBC11.mu"><title>HEXAGONE MMA</title></programme>
+<programme start="20261106231000 +0400" stop="20261107000000 +0400" channel="MBC11.mu"><title>DD SPORTS</title></programme>
+<programme start="20261106005900 +0400" stop="20261106030700 +0400" channel="MBC16.mu"><title>RAKHWALA</title></programme>
+<programme start="20261106030700 +0400" stop="20261106032800 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106032800 +0400" stop="20261106033900 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106033900 +0400" stop="20261106035000 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106035000 +0400" stop="20261106040100 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
+<programme start="20261106040100 +0400" stop="20261106042200 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106042200 +0400" stop="20261106044500 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
+<programme start="20261106044500 +0400" stop="20261106053300 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106053300 +0400" stop="20261106070000 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106070000 +0400" stop="20261106090800 +0400" channel="MBC16.mu"><title>RAKHWALA</title></programme>
+<programme start="20261106090800 +0400" stop="20261106092900 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106092900 +0400" stop="20261106094000 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106094000 +0400" stop="20261106095000 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106095000 +0400" stop="20261106100200 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
+<programme start="20261106100200 +0400" stop="20261106102300 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106102300 +0400" stop="20261106104600 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
+<programme start="20261106104600 +0400" stop="20261106113400 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106113400 +0400" stop="20261106130100 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106130100 +0400" stop="20261106150900 +0400" channel="MBC16.mu"><title>RAKHWALA</title></programme>
+<programme start="20261106150900 +0400" stop="20261106153000 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106153000 +0400" stop="20261106154100 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106154100 +0400" stop="20261106155100 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106155100 +0400" stop="20261106160300 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
+<programme start="20261106160300 +0400" stop="20261106162400 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106162400 +0400" stop="20261106164700 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
+<programme start="20261106164700 +0400" stop="20261106173500 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106173500 +0400" stop="20261106185800 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106185800 +0400" stop="20261106211200 +0400" channel="MBC16.mu"><title>COCKTAIL</title></programme>
+<programme start="20261106211200 +0400" stop="20261106213400 +0400" channel="MBC16.mu"><title>WAGLE KI DUNIYA - NAYI PEEDHI NAYE KISSEY</title></programme>
+<programme start="20261106213400 +0400" stop="20261106214900 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106214900 +0400" stop="20261106220000 +0400" channel="MBC16.mu"><title>PAAP-O-METER</title></programme>
+<programme start="20261106220000 +0400" stop="20261106221000 +0400" channel="MBC16.mu"><title>GURU AUR BHOLE</title></programme>
+<programme start="20261106221000 +0400" stop="20261106223000 +0400" channel="MBC16.mu"><title>TENALI RAMA  (SERIAL)</title></programme>
+<programme start="20261106223000 +0400" stop="20261106225200 +0400" channel="MBC16.mu"><title>DHARM YODDHA GARUD</title></programme>
+<programme start="20261106225200 +0400" stop="20261106231500 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
+<programme start="20261106231500 +0400" stop="20261107000000 +0400" channel="MBC16.mu"><title>AAJ AUR KAL BOLLYWOOD HITS</title></programme>
 </tv>
